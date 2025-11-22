@@ -44,9 +44,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # We uploaden de hele map '.' omdat Just the Docs 
-          # en _config.yml in de root staan.
-          path: '.'
+          path: 'docs'
 
   # Job 2: Zet het live
   deploy:
