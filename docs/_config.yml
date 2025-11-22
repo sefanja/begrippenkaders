@@ -1,6 +1,5 @@
 title: Begrippenkaders | Netbeheer Nederland
-remote_theme: just-the-docs/just-the-docs
-url: "https://sefanja.gibhub.io"
+theme: just-the-docs
 baseurl: /begrippenkaders
 
 defaults:
