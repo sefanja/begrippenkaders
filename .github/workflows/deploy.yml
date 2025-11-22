@@ -36,7 +36,13 @@ jobs:
 
       - name: Run Conversion Script
         run: |
-          python gen_md.py
+          python sbb_multi.py
+
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./docs
+          destination: ./_site
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
@@ -44,7 +50,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'docs'
+          path: ./_site
 
   # Job 2: Zet het live
   deploy:
