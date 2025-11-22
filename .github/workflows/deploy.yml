@@ -36,7 +36,7 @@ jobs:
 
       - name: Run Conversion Script
         run: |
-          python sbb_multi.py
+          python gen_md.py
 
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
