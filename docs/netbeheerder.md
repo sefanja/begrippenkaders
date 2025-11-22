@@ -1,0 +1,22 @@
+---
+layout: default
+title: netbeheerder
+parent: marktpartij
+has_children: false
+nav_order: 2
+---
+
+# netbeheerder
+
+## Definitie
+vennootschap die op grond van de wet is aangewezen voor het beheer van een of meer energienetten, niet zijnde gesloten distributiesystemen
+
+## Eigenschappen
+| Eigenschap | Waarde |
+| :--- | :--- |
+| Synoniemen | NB |
+| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/netbeheerder` |
+
+## Relaties
+* **Bovenliggend:** [marktpartij](marktpartij.html)
+* **Gerelateerd:** [energienet](energienet.html), [gesloten distributiesysteem](gesloten-distributiesysteem.html)

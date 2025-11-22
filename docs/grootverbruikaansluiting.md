@@ -1,0 +1,22 @@
+---
+layout: default
+title: grootverbruikaansluiting
+parent: aansluiting
+has_children: false
+nav_order: 2
+---
+
+# grootverbruikaansluiting
+
+## Definitie
+grote aansluiting, een aansluiting op een gesloten distributiesysteem, of een aansluiting van een afnemer zoals bedoeld in <a href="https://wetten.overheid.nl/jci1.3:c:BWBR0009755&hoofdstuk=1&paragraaf=1&artikel=1&z=2022-10-01&g=2022-10-01">artikel 1, tweede of derde lid, van de Elektriciteitswet 1998</a>
+
+## Eigenschappen
+| Eigenschap | Waarde |
+| :--- | :--- |
+| Synoniemen | GVB |
+| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/grootverbruikaansluiting` |
+
+## Relaties
+* **Bovenliggend:** [aansluiting](aansluiting.html)
+* **Gerelateerd:** [gesloten distributiesysteem](gesloten-distributiesysteem.html), [grote aansluiting](grote-aansluiting.html)
