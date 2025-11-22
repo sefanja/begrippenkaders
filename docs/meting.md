@@ -1,7 +1,7 @@
 ---
-layout: default
 title: meting
 parent: meting (domein)
+permalink: /begrippen/meting/
 ---
 
 # meting
@@ -9,12 +9,13 @@ parent: meting (domein)
 ## Definitie
 aan het energienet gerelateerde waardebepaling met behulp van een meetinstrument
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [meting (domein)](/begrippen/meting-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/meting` |
 
-
-## Relaties
-* **Bovenliggend:** [meting (domein)](meting-domein.html)

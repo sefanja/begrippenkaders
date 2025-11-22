@@ -1,7 +1,7 @@
 ---
-layout: default
 title: werkportfolio
 parent: werk (domein)
+permalink: /begrippen/werkportfolio/
 ---
 
 # werkportfolio
@@ -9,12 +9,13 @@ parent: werk (domein)
 ## Definitie
 globale planning van werkzaamheden aan energienetten
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [werk (domein)](/begrippen/werk-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/werkportfolio` |
 
-
-## Relaties
-* **Bovenliggend:** [werk (domein)](werk-domein.html)

@@ -1,7 +1,7 @@
 ---
-layout: default
 title: medewerkersplan
 parent: medewerker (domein)
+permalink: /begrippen/medewerkersplan/
 ---
 
 # medewerkersplan
@@ -9,12 +9,13 @@ parent: medewerker (domein)
 ## Definitie
 door een organisatie in detail voorgenomen handelswijze om medewerkers te werven en inzetbaar te houden zodat zij haar doelstellingen realiseert
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [medewerker (domein)](/begrippen/medewerker-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/medewerkersplan` |
 
-
-## Relaties
-* **Bovenliggend:** [medewerker (domein)](medewerker-domein.html)

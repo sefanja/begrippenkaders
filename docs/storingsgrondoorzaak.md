@@ -1,7 +1,7 @@
 ---
-layout: default
 title: storingsgrondoorzaak
 parent: energienet (domein)
+permalink: /begrippen/storingsgrondoorzaak/
 ---
 
 # storingsgrondoorzaak
@@ -9,12 +9,13 @@ parent: energienet (domein)
 ## Definitie
 fundamentele reden voor het optreden van een of meer storingen
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [energienet (domein)](/begrippen/energienet-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/storingsgrondoorzaak` |
 
-
-## Relaties
-* **Bovenliggend:** [energienet (domein)](energienet-domein.html)

@@ -1,7 +1,7 @@
 ---
-layout: default
 title: inkoopproduct
 parent: inkoopproduct (domein)
+permalink: /begrippen/inkoopproduct/
 ---
 
 # inkoopproduct
@@ -9,12 +9,13 @@ parent: inkoopproduct (domein)
 ## Definitie
 tegen betaling verkregen product of dienst
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [inkoopproduct (domein)](/begrippen/inkoopproduct-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/inkoopproduct` |
 
-
-## Relaties
-* **Bovenliggend:** [inkoopproduct (domein)](inkoopproduct-domein.html)

@@ -1,7 +1,7 @@
 ---
-layout: default
 title: spanningsniveau
 parent: overdrachtspunt
+permalink: /begrippen/spanningsniveau/
 ---
 
 # spanningsniveau
@@ -9,12 +9,12 @@ parent: overdrachtspunt
 ## Definitie
 elektrisch spanningsbereik waarin een systeem opereert
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [overdrachtspunt](/begrippen/overdrachtspunt/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/spanningsniveau` |
 
-
-## Relaties
-* **Bovenliggend:** [overdrachtspunt](overdrachtspunt.html)

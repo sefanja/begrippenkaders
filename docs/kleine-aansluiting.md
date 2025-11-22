@@ -1,7 +1,7 @@
 ---
-layout: default
 title: kleine aansluiting
 parent: aansluiting
+permalink: /begrippen/kleine-aansluiting/
 ---
 
 # kleine aansluiting
@@ -12,12 +12,14 @@ aansluiting met een doorlaatwaarde kleiner dan of gelijk aan 3 x 80 Ampère voor
 ## Toelichting
 Een aansluiting voor een streng van lichtmasten, waarbij elke lichtmast een eigen overdrachtspunt heeft met een doorlaatwaarde van ten hoogste 1 x 6 Ampère, geldt als kleine aansluiting, ongeacht het aantal overdrachtspunten.
 
-## Eigenschappen
+
+## Relaties
+* **Bovenliggend:** [aansluiting](/begrippen/aansluiting/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/energiewet](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/energiewet) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/kleine-aansluiting` |
 
-
-## Relaties
-* **Bovenliggend:** [aansluiting](aansluiting.html)

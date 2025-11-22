@@ -1,7 +1,7 @@
 ---
-layout: default
 title: inkoopstrategie
 parent: inkoopproduct (domein)
+permalink: /begrippen/inkoopstrategie/
 ---
 
 # inkoopstrategie
@@ -9,12 +9,13 @@ parent: inkoopproduct (domein)
 ## Definitie
 algemene aanpak die een organisatie hanteert om goederen en diensten te verkrijgen zodat zij haar doelstellingen realiseert
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [inkoopproduct (domein)](/begrippen/inkoopproduct-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/inkoopstrategie` |
 
-
-## Relaties
-* **Bovenliggend:** [inkoopproduct (domein)](inkoopproduct-domein.html)

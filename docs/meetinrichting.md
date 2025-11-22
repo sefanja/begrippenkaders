@@ -1,7 +1,7 @@
 ---
-layout: default
 title: meetinrichting
 parent: netcomponent
+permalink: /begrippen/meetinrichting/
 ---
 
 # meetinrichting
@@ -9,12 +9,21 @@ parent: netcomponent
 ## Definitie
 instrument of samenstel van instrumenten met een meetfunctie dat ten minste de invoeding, onttrekking of het verbruik van elektriciteit of gas meet, met uitzondering van hulpmiddelen die de meetfunctie ondersteunen en die onderdeel zijn van een aansluiting
 
-## Eigenschappen
+## Terminologie
 
-| Eigenschap | Waarde |
+| Type | Term |
 | :--- | :--- |
-| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/meetinrichting` |
+| Voorkeursterm | meetinrichting |
+| Zoekterm (verborgen) | meter |
 
 
 ## Relaties
-* **Bovenliggend:** [netcomponent](netcomponent.html)
+* **Bovenliggend:** [netcomponent](/begrippen/netcomponent/)
+
+## Metadata
+
+| Eigenschap | Waarde |
+| :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/energiewet](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/energiewet) |
+| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/meetinrichting` |
+

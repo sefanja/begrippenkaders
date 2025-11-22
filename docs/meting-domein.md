@@ -1,7 +1,7 @@
 ---
-layout: default
 title: meting (domein)
 parent: Energiesysteembeheer
+permalink: /begrippen/meting-domein/
 ---
 
 # meting (domein)
@@ -9,9 +9,10 @@ parent: Energiesysteembeheer
 ## Definitie
 bedrijfsobjecten die een netbeheerder bestuurt bij het meten van energietransport en energienetten
 
-## Eigenschappen
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/meting-domein` |
 

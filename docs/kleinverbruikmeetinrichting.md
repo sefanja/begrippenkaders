@@ -1,7 +1,7 @@
 ---
-layout: default
 title: kleinverbruikmeetinrichting
 parent: meetinrichting
+permalink: /begrippen/kleinverbruikmeetinrichting/
 ---
 
 # kleinverbruikmeetinrichting
@@ -9,13 +9,14 @@ parent: meetinrichting
 ## Definitie
 meetinrichting bij een kleinverbruikaansluiting
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [meetinrichting](/begrippen/meetinrichting/)
+* **Gerelateerd:** [kleinverbruikaansluiting](/begrippen/kleinverbruikaansluiting/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/begrippencode-elektriciteit](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/begrippencode-elektriciteit) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/kleinverbruikmeetinrichting` |
 
-
-## Relaties
-* **Bovenliggend:** [meetinrichting](meetinrichting.html)
-* **Gerelateerd:** [kleinverbruikaansluiting](kleinverbruikaansluiting.html)

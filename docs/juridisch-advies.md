@@ -1,7 +1,7 @@
 ---
-layout: default
 title: juridisch advies
 parent: richting (domein)
+permalink: /begrippen/juridisch-advies/
 ---
 
 # juridisch advies
@@ -9,12 +9,13 @@ parent: richting (domein)
 ## Definitie
 raadgeving die primair verband houdt met het recht
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [richting (domein)](/begrippen/richting-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/juridisch-advies` |
 
-
-## Relaties
-* **Bovenliggend:** [richting (domein)](richting-domein.html)

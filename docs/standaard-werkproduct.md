@@ -1,7 +1,7 @@
 ---
-layout: default
 title: standaard werkproduct
 parent: werk (domein)
+permalink: /begrippen/standaard-werkproduct/
 ---
 
 # standaard werkproduct
@@ -9,12 +9,13 @@ parent: werk (domein)
 ## Definitie
 regelmatig terugkerend werk, met een norm voor de benodigde uren, materialen en/of instructies
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [werk (domein)](/begrippen/werk-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/standaard-werkproduct` |
 
-
-## Relaties
-* **Bovenliggend:** [werk (domein)](werk-domein.html)

@@ -1,6 +1,12 @@
-title: Begrippenkader Netbeheer
-description: Definities voor Energiesysteembeheer
+title: Begrippenkaders | Netbeheer Nederland
 remote_theme: just-the-docs/just-the-docs
 
-# Activeer de zoekfunctie
-search_enabled: true
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+color_scheme: nbnl
+logo: "/assets/images/logo.svg"
+fav_icon: "/assets/images/favicon.png"

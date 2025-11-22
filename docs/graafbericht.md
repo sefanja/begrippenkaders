@@ -1,7 +1,7 @@
 ---
-layout: default
 title: graafbericht
 parent: energienet (domein)
+permalink: /begrippen/graafbericht/
 ---
 
 # graafbericht
@@ -9,12 +9,13 @@ parent: energienet (domein)
 ## Definitie
 bericht aan de netbeheerder van de Dienst voor het kadaster en de openbare registers nadat deze een oriëntatieverzoek of graafmelding heeft ontvangen
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [energienet (domein)](/begrippen/energienet-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/graafbericht` |
 
-
-## Relaties
-* **Bovenliggend:** [energienet (domein)](energienet-domein.html)

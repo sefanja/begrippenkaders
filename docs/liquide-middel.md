@@ -1,7 +1,7 @@
 ---
-layout: default
 title: liquide middel
 parent: financiën (domein)
+permalink: /begrippen/liquide-middel/
 ---
 
 # liquide middel
@@ -9,12 +9,13 @@ parent: financiën (domein)
 ## Definitie
 direct beschikbaar geld of direct opeisbaar tegoed
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [financiën (domein)](/begrippen/financien-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/liquide-middel` |
 
-
-## Relaties
-* **Bovenliggend:** [financiën (domein)](financien-domein.html)

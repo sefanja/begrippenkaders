@@ -1,7 +1,7 @@
 ---
-layout: default
 title: collectief capaciteitsbeperkingscontract
 parent: capaciteitsbeperkingscontract
+permalink: /begrippen/collectief-capaciteitsbeperkingscontract/
 ---
 
 # collectief capaciteitsbeperkingscontract
@@ -9,14 +9,21 @@ parent: capaciteitsbeperkingscontract
 ## Definitie
 capaciteitsbeperkingscontract met betrekking tot meerdere aansluitingen en met meerdere aangeslotenen als collectieve contractpartij
 
-## Eigenschappen
+## Terminologie
 
-| Eigenschap | Waarde |
+| Type | Term |
 | :--- | :--- |
-| Alternatieve termen | C-CBC |
-| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/collectief-capaciteitsbeperkingscontract` |
+| Voorkeursterm | collectief capaciteitsbeperkingscontract |
+| Synoniem | C-CBC |
 
 
 ## Relaties
-* **Bovenliggend:** [capaciteitsbeperkingscontract](capaciteitsbeperkingscontract.html)
-* **Gerelateerd:** [aansluiting](aansluiting.html), [aangeslotene](aangeslotene.html)
+* **Bovenliggend:** [capaciteitsbeperkingscontract](/begrippen/capaciteitsbeperkingscontract/)
+* **Gerelateerd:** [aansluiting](/begrippen/aansluiting/), [aangeslotene](/begrippen/aangeslotene/)
+
+## Metadata
+
+| Eigenschap | Waarde |
+| :--- | :--- |
+| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/collectief-capaciteitsbeperkingscontract` |
+

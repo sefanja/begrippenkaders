@@ -1,7 +1,7 @@
 ---
-layout: default
 title: klant (domein)
 parent: Energiesysteembeheer
+permalink: /begrippen/klant-domein/
 ---
 
 # klant (domein)
@@ -9,9 +9,10 @@ parent: Energiesysteembeheer
 ## Definitie
 bedrijfsobjecten die een netbeheerder bestuurt bij het bedienen van klanten
 
-## Eigenschappen
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/klant-domein` |
 

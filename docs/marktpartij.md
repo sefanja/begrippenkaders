@@ -1,7 +1,7 @@
 ---
-layout: default
 title: marktpartij
 parent: energiemarkt (domein)
+permalink: /begrippen/marktpartij/
 ---
 
 # marktpartij
@@ -12,12 +12,14 @@ partij die een rol vervult binnen de energiemarkt
 ## Toelichting
 Onder marktpartijen verstaan we niet de afnemers of toezichthouders van de energiemarkt.
 
-## Eigenschappen
+
+## Relaties
+* **Bovenliggend:** [energiemarkt (domein)](/begrippen/energiemarkt-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/marktpartij` |
 
-
-## Relaties
-* **Bovenliggend:** [energiemarkt (domein)](energiemarkt-domein.html)

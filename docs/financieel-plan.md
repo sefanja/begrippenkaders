@@ -1,7 +1,7 @@
 ---
-layout: default
 title: financieel plan
 parent: financiën (domein)
+permalink: /begrippen/financieel-plan/
 ---
 
 # financieel plan
@@ -9,12 +9,13 @@ parent: financiën (domein)
 ## Definitie
 door een organisatie in detail voorgenomen handelswijze om financiën te besturen zodat zij haar doelstellingen realiseert
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [financiën (domein)](/begrippen/financien-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/financieel-plan` |
 
-
-## Relaties
-* **Bovenliggend:** [financiën (domein)](financien-domein.html)

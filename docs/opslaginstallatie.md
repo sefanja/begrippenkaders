@@ -1,7 +1,7 @@
 ---
-layout: default
 title: opslaginstallatie
 parent: installatie
+permalink: /begrippen/opslaginstallatie/
 ---
 
 # opslaginstallatie
@@ -9,12 +9,13 @@ parent: installatie
 ## Definitie
 installatie voor het opslaan van energie
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [installatie](/begrippen/installatie/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/netcode-elektriciteit](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/netcode-elektriciteit) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/opslaginstallatie` |
 
-
-## Relaties
-* **Bovenliggend:** [installatie](installatie.html)

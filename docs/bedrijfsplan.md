@@ -1,7 +1,7 @@
 ---
-layout: default
 title: bedrijfsplan
 parent: richting (domein)
+permalink: /begrippen/bedrijfsplan/
 ---
 
 # bedrijfsplan
@@ -9,12 +9,13 @@ parent: richting (domein)
 ## Definitie
 door een organisatie in detail voorgenomen handelswijze om haar doelstellingen te realiseren
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [richting (domein)](/begrippen/richting-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/bedrijfsplan` |
 
-
-## Relaties
-* **Bovenliggend:** [richting (domein)](richting-domein.html)

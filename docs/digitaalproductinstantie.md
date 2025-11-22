@@ -1,7 +1,7 @@
 ---
-layout: default
 title: digitaalproductinstantie
 parent: digitaal product (domein)
+permalink: /begrippen/digitaalproductinstantie/
 ---
 
 # digitaalproductinstantie
@@ -9,12 +9,13 @@ parent: digitaal product (domein)
 ## Definitie
 levering van een digitaal product
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [digitaal product (domein)](/begrippen/digitaal-product-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/digitaalproductinstantie` |
 
-
-## Relaties
-* **Bovenliggend:** [digitaal product (domein)](digitaal-product-domein.html)

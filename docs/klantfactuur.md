@@ -1,7 +1,7 @@
 ---
-layout: default
 title: klantfactuur
 parent: klant (domein)
+permalink: /begrippen/klantfactuur/
 ---
 
 # klantfactuur
@@ -9,12 +9,13 @@ parent: klant (domein)
 ## Definitie
 weergave van een betalingsverplichting van of aan een klant
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [klant (domein)](/begrippen/klant-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/klantfactuur` |
 
-
-## Relaties
-* **Bovenliggend:** [klant (domein)](klant-domein.html)

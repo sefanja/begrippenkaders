@@ -1,7 +1,7 @@
 ---
-layout: default
 title: digitaalproductprestatie
 parent: digitaal product (domein)
+permalink: /begrippen/digitaalproductprestatie/
 ---
 
 # digitaalproductprestatie
@@ -9,12 +9,13 @@ parent: digitaal product (domein)
 ## Definitie
 mate waarin de instantie van een digitaal product afgesproken prestatiedoelen behaalt
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [digitaal product (domein)](/begrippen/digitaal-product-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/digitaalproductprestatie` |
 
-
-## Relaties
-* **Bovenliggend:** [digitaal product (domein)](digitaal-product-domein.html)

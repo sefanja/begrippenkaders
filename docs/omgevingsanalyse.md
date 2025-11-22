@@ -1,7 +1,7 @@
 ---
-layout: default
 title: omgevingsanalyse
 parent: energienet (domein)
+permalink: /begrippen/omgevingsanalyse/
 ---
 
 # omgevingsanalyse
@@ -9,12 +9,13 @@ parent: energienet (domein)
 ## Definitie
 omschrijving van de fysieke leefomgeving en het eigenaarschap van de grond, waar rekening mee moet worden gehouden bij de uitvoering van de bedrijfsactiviteiten
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [energienet (domein)](/begrippen/energienet-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/omgevingsanalyse` |
 
-
-## Relaties
-* **Bovenliggend:** [energienet (domein)](energienet-domein.html)

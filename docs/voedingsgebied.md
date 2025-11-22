@@ -1,7 +1,7 @@
 ---
-layout: default
 title: voedingsgebied
 parent: netfunctie
+permalink: /begrippen/voedingsgebied/
 ---
 
 # voedingsgebied
@@ -9,13 +9,13 @@ parent: netfunctie
 ## Definitie
 deel van het aardoppervlak waar zich de overdrachtspunten van aansluitingen bevinden die worden gevoed door een bepaald deel van het energienet
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [netfunctie](/begrippen/netfunctie/)
+* **Gerelateerd:** [energienet](/begrippen/energienet/), [aansluiting](/begrippen/aansluiting/), [overdrachtspunt](/begrippen/overdrachtspunt/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/voedingsgebied` |
 
-
-## Relaties
-* **Bovenliggend:** [netfunctie](netfunctie.html)
-* **Gerelateerd:** [energienet](energienet.html), [aansluiting](aansluiting.html), [overdrachtspunt](overdrachtspunt.html)

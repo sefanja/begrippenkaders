@@ -1,7 +1,7 @@
 ---
-layout: default
 title: bedrijfsgebouw
 parent: bedrijfsgebouw (domein)
+permalink: /begrippen/bedrijfsgebouw/
 ---
 
 # bedrijfsgebouw
@@ -9,12 +9,13 @@ parent: bedrijfsgebouw (domein)
 ## Definitie
 gebouw waar duurzame uitoefening van de activiteiten van de netbeheerder plaatsvindt, niet zijnde een gebouw dat onderdeel uitmaakt van het energienet
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [bedrijfsgebouw (domein)](/begrippen/bedrijfsgebouw-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/bedrijfsgebouw` |
 
-
-## Relaties
-* **Bovenliggend:** [bedrijfsgebouw (domein)](bedrijfsgebouw-domein.html)

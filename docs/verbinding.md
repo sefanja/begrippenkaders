@@ -1,7 +1,7 @@
 ---
-layout: default
 title: verbinding
 parent: netfunctie
+permalink: /begrippen/verbinding/
 ---
 
 # verbinding
@@ -9,12 +9,12 @@ parent: netfunctie
 ## Definitie
 object bestemd om daardoorheen of daarlangs energie te transporteren
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [netfunctie](/begrippen/netfunctie/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/verbinding` |
 
-
-## Relaties
-* **Bovenliggend:** [netfunctie](netfunctie.html)

@@ -1,7 +1,7 @@
 ---
-layout: default
 title: inkoopovereenkomst
 parent: inkoopproduct (domein)
+permalink: /begrippen/inkoopovereenkomst/
 ---
 
 # inkoopovereenkomst
@@ -9,12 +9,13 @@ parent: inkoopproduct (domein)
 ## Definitie
 afspraak over de voorwaarden waaronder een partij goederen of diensten levert aan de netbeheerder
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [inkoopproduct (domein)](/begrippen/inkoopproduct-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/inkoopovereenkomst` |
 
-
-## Relaties
-* **Bovenliggend:** [inkoopproduct (domein)](inkoopproduct-domein.html)

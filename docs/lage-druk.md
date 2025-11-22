@@ -1,7 +1,7 @@
 ---
-layout: default
 title: lage druk
 parent: drukniveau
+permalink: /begrippen/lage-druk/
 ---
 
 # lage druk
@@ -9,13 +9,21 @@ parent: drukniveau
 ## Definitie
 drukniveau van 200 mbar of lager
 
-## Eigenschappen
+## Terminologie
 
-| Eigenschap | Waarde |
+| Type | Term |
 | :--- | :--- |
-| Alternatieve termen | LD |
-| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/lage-druk` |
+| Voorkeursterm | lage druk |
+| Synoniem | LD |
 
 
 ## Relaties
-* **Bovenliggend:** [drukniveau](drukniveau.html)
+* **Bovenliggend:** [drukniveau](/begrippen/drukniveau/)
+
+## Metadata
+
+| Eigenschap | Waarde |
+| :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/begrippencode-gas](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/begrippencode-gas) |
+| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/lage-druk` |
+

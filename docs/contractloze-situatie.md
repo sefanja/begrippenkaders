@@ -1,7 +1,7 @@
 ---
-layout: default
 title: contractloze situatie
 parent: klant (domein)
+permalink: /begrippen/contractloze-situatie/
 ---
 
 # contractloze situatie
@@ -9,12 +9,13 @@ parent: klant (domein)
 ## Definitie
 toestand waarin er een actieve aansluiting is zonder leveringsovereenkomst
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [klant (domein)](/begrippen/klant-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/contractloze-situatie` |
 
-
-## Relaties
-* **Bovenliggend:** [klant (domein)](klant-domein.html)

@@ -1,7 +1,7 @@
 ---
-layout: default
 title: energietoerekening
 parent: energiemarkt (domein)
+permalink: /begrippen/energietoerekening/
 ---
 
 # energietoerekening
@@ -9,12 +9,13 @@ parent: energiemarkt (domein)
 ## Definitie
 verklaring dat uitgewisselde energie een marktpartij toebehoort
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [energiemarkt (domein)](/begrippen/energiemarkt-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/energietoerekening` |
 
-
-## Relaties
-* **Bovenliggend:** [energiemarkt (domein)](energiemarkt-domein.html)

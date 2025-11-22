@@ -1,7 +1,7 @@
 ---
-layout: default
 title: vrije bieding redispatch
 parent: bieding redispatch
+permalink: /begrippen/vrije-bieding-redispatch/
 ---
 
 # vrije bieding redispatch
@@ -9,13 +9,13 @@ parent: bieding redispatch
 ## Definitie
 bieding redispatch zonder verzoek van de netbeheerder
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [bieding redispatch](/begrippen/bieding-redispatch/)
+* **Gerelateerd:** [netbeheerder](/begrippen/netbeheerder/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/vrije-bieding-redispatch` |
 
-
-## Relaties
-* **Bovenliggend:** [bieding redispatch](bieding-redispatch.html)
-* **Gerelateerd:** [netbeheerder](netbeheerder.html)

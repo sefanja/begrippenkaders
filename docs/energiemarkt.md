@@ -1,7 +1,7 @@
 ---
-layout: default
 title: energiemarkt
 parent: energiemarkt (domein)
+permalink: /begrippen/energiemarkt/
 ---
 
 # energiemarkt
@@ -9,12 +9,13 @@ parent: energiemarkt (domein)
 ## Definitie
 (virtuele) handelsplaats voor energie
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [energiemarkt (domein)](/begrippen/energiemarkt-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/energiemarkt` |
 
-
-## Relaties
-* **Bovenliggend:** [energiemarkt (domein)](energiemarkt-domein.html)

@@ -1,7 +1,7 @@
 ---
-layout: default
 title: telwerk
 parent: meter
+permalink: /begrippen/telwerk/
 ---
 
 # telwerk
@@ -9,12 +9,13 @@ parent: meter
 ## Definitie
 samenstel van cijferrollen dan wel een dataregister waarin de totale hoeveelheid uitgewisselde energie wordt vastgelegd
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [meter](/begrippen/meter/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/begrippencode-elektriciteit](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/begrippencode-elektriciteit) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/telwerk` |
 
-
-## Relaties
-* **Bovenliggend:** [meter](meter.html)

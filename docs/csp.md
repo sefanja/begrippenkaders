@@ -1,7 +1,7 @@
 ---
-layout: default
 title: CSP
 parent: marktpartij
+permalink: /begrippen/csp/
 ---
 
 # CSP
@@ -12,12 +12,22 @@ partij die namens of met instemming van een aangeslotene congestiemanagementdien
 ## Toelichting
 CSP staat voor congestion service provider.
 
-## Eigenschappen
+
+## Terminologie
+
+| Type | Term |
+| :--- | :--- |
+| Voorkeursterm | CSP |
+| Zoekterm (verborgen) | congestiemanagementdienstverlener |
+| Zoekterm (verborgen) | congestiebeheersdienstverlener |
+
+
+## Relaties
+* **Bovenliggend:** [marktpartij](/begrippen/marktpartij/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/csp` |
 
-
-## Relaties
-* **Bovenliggend:** [marktpartij](marktpartij.html)

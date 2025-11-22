@@ -1,7 +1,7 @@
 ---
-layout: default
 title: facilitair product
 parent: bedrijfsgebouw (domein)
+permalink: /begrippen/facilitair-product/
 ---
 
 # facilitair product
@@ -9,12 +9,13 @@ parent: bedrijfsgebouw (domein)
 ## Definitie
 voorwerp of dienst die het gebruik van een bedrijfsgebouw ondersteunt
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [bedrijfsgebouw (domein)](/begrippen/bedrijfsgebouw-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/facilitair-product` |
 
-
-## Relaties
-* **Bovenliggend:** [bedrijfsgebouw (domein)](bedrijfsgebouw-domein.html)

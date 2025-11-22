@@ -1,7 +1,7 @@
 ---
-layout: default
 title: goederenbeweging
 parent: werk (domein)
+permalink: /begrippen/goederenbeweging/
 ---
 
 # goederenbeweging
@@ -9,12 +9,13 @@ parent: werk (domein)
 ## Definitie
 fysieke of logische verplaatsing van goederen
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [werk (domein)](/begrippen/werk-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/goederenbeweging` |
 
-
-## Relaties
-* **Bovenliggend:** [werk (domein)](werk-domein.html)

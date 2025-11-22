@@ -1,7 +1,7 @@
 ---
-layout: default
 title: vitaliteitsprogramma
 parent: medewerker (domein)
+permalink: /begrippen/vitaliteitsprogramma/
 ---
 
 # vitaliteitsprogramma
@@ -9,12 +9,13 @@ parent: medewerker (domein)
 ## Definitie
 gestructureerd en georganiseerd initiatief gericht op het bevorderen van de algehele gezondheid, welzijn en veerkracht van medewerkers
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [medewerker (domein)](/begrippen/medewerker-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/vitaliteitsprogramma` |
 
-
-## Relaties
-* **Bovenliggend:** [medewerker (domein)](medewerker-domein.html)

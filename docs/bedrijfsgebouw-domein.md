@@ -1,7 +1,7 @@
 ---
-layout: default
 title: bedrijfsgebouw (domein)
 parent: Energiesysteembeheer
+permalink: /begrippen/bedrijfsgebouw-domein/
 ---
 
 # bedrijfsgebouw (domein)
@@ -9,9 +9,10 @@ parent: Energiesysteembeheer
 ## Definitie
 bedrijfsobjecten die een netbeheerder bestuurt bij het beheren van bedrijfsgebouwen en beschikbaar stellen van faciliteiten
 
-## Eigenschappen
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/bedrijfsgebouw-domein` |
 

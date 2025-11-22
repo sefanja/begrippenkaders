@@ -1,7 +1,7 @@
 ---
-layout: default
 title: middenspanning
 parent: spanningsniveau
+permalink: /begrippen/middenspanning/
 ---
 
 # middenspanning
@@ -12,13 +12,21 @@ spanningsniveau hoger dan 1 kV in geval van wisselspanning en hoger dan 1,5 kV i
 ## Toelichting
 Spanningsniveaus worden op verschillende manieren gedefinieerd. Deze definitie gaat uit van de door netbeheerders meest gebruikte indeling. Andere veelgebruikte bovengrenzen voor middenspanning zijn 35, 50 en 110 kV.
 
-## Eigenschappen
 
-| Eigenschap | Waarde |
+## Terminologie
+
+| Type | Term |
 | :--- | :--- |
-| Alternatieve termen | MS |
-| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/middenspanning` |
+| Voorkeursterm | middenspanning |
+| Synoniem | MS |
 
 
 ## Relaties
-* **Bovenliggend:** [spanningsniveau](spanningsniveau.html)
+* **Bovenliggend:** [spanningsniveau](/begrippen/spanningsniveau/)
+
+## Metadata
+
+| Eigenschap | Waarde |
+| :--- | :--- |
+| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/middenspanning` |
+

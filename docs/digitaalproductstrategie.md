@@ -1,7 +1,7 @@
 ---
-layout: default
 title: digitaalproductstrategie
 parent: digitaal product (domein)
+permalink: /begrippen/digitaalproductstrategie/
 ---
 
 # digitaalproductstrategie
@@ -9,12 +9,13 @@ parent: digitaal product (domein)
 ## Definitie
 algemene aanpak die een organisatie hanteert om digitale producten te ontwikkelen en beheren zodat zij haar doelstellingen realiseert
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [digitaal product (domein)](/begrippen/digitaal-product-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/digitaalproductstrategie` |
 
-
-## Relaties
-* **Bovenliggend:** [digitaal product (domein)](digitaal-product-domein.html)

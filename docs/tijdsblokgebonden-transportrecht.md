@@ -1,7 +1,7 @@
 ---
-layout: default
 title: tijdsblokgebonden transportrecht
 parent: alternatief transportrecht
+permalink: /begrippen/tijdsblokgebonden-transportrecht/
 ---
 
 # tijdsblokgebonden transportrecht
@@ -9,13 +9,20 @@ parent: alternatief transportrecht
 ## Definitie
 transportrecht dat geldt gedurende vooraf vastgestelde tijdsblokken
 
-## Eigenschappen
+## Terminologie
 
-| Eigenschap | Waarde |
+| Type | Term |
 | :--- | :--- |
-| Alternatieve termen | blokstroom |
-| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/tijdsblokgebonden-transportrecht` |
+| Voorkeursterm | tijdsblokgebonden transportrecht |
+| Synoniem | blokstroom |
 
 
 ## Relaties
-* **Bovenliggend:** [alternatief transportrecht](alternatief-transportrecht.html)
+* **Bovenliggend:** [alternatief transportrecht](/begrippen/alternatief-transportrecht/)
+
+## Metadata
+
+| Eigenschap | Waarde |
+| :--- | :--- |
+| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/tijdsblokgebonden-transportrecht` |
+

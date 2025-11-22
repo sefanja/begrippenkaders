@@ -1,7 +1,7 @@
 ---
-layout: default
 title: congestiegebied
 parent: energiemarkt (domein)
+permalink: /begrippen/congestiegebied/
 ---
 
 # congestiegebied
@@ -9,12 +9,13 @@ parent: energiemarkt (domein)
 ## Definitie
 gebied waarin de te verwachten behoefte aan transport redelijkerwijs kan leiden tot een structureel tekort aan transportcapaciteit
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [energiemarkt (domein)](/begrippen/energiemarkt-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/congestiegebied` |
 
-
-## Relaties
-* **Bovenliggend:** [energiemarkt (domein)](energiemarkt-domein.html)

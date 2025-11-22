@@ -1,7 +1,7 @@
 ---
-layout: default
 title: financiën (domein)
 parent: Energiesysteembeheer
+permalink: /begrippen/financien-domein/
 ---
 
 # financiën (domein)
@@ -9,9 +9,10 @@ parent: Energiesysteembeheer
 ## Definitie
 bedrijfsobjecten die een netbeheerder bestuurt bij het verkrijgen en beheren van financiën
 
-## Eigenschappen
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/financien-domein` |
 

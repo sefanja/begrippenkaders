@@ -1,7 +1,7 @@
 ---
-layout: default
 title: klantcontactmoment
 parent: klant (domein)
+permalink: /begrippen/klantcontactmoment/
 ---
 
 # klantcontactmoment
@@ -9,12 +9,13 @@ parent: klant (domein)
 ## Definitie
 aaneengesloten periode waarbij interactief informatie wordt uitgewisseld tussen een klant en de netbeheerder
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [klant (domein)](/begrippen/klant-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/klantcontactmoment` |
 
-
-## Relaties
-* **Bovenliggend:** [klant (domein)](klant-domein.html)

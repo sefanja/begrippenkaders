@@ -1,7 +1,7 @@
 ---
-layout: default
 title: bedrijfsrisico
 parent: richting (domein)
+permalink: /begrippen/bedrijfsrisico/
 ---
 
 # bedrijfsrisico
@@ -9,12 +9,13 @@ parent: richting (domein)
 ## Definitie
 effect van onzekerheid ten aanzien van de doelstellingen of resultaten van een organisatie
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [richting (domein)](/begrippen/richting-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/bedrijfsrisico` |
 
-
-## Relaties
-* **Bovenliggend:** [richting (domein)](richting-domein.html)

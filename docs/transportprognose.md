@@ -1,7 +1,7 @@
 ---
-layout: default
 title: transportprognose
 parent: energietransport (domein)
+permalink: /begrippen/transportprognose/
 ---
 
 # transportprognose
@@ -12,12 +12,14 @@ bij een netbeheerder ingediende planning van energie-uitwisseling
 ## Toelichting
 In een volgende versie van NBility wordt deze mogelijk gewijzigd naar energieplanning.
 
-## Eigenschappen
+
+## Relaties
+* **Bovenliggend:** [energietransport (domein)](/begrippen/energietransport-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/transportprognose` |
 
-
-## Relaties
-* **Bovenliggend:** [energietransport (domein)](energietransport-domein.html)

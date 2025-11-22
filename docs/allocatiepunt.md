@@ -1,7 +1,7 @@
 ---
-layout: default
 title: allocatiepunt
 parent: aansluiting
+permalink: /begrippen/allocatiepunt/
 ---
 
 # allocatiepunt
@@ -9,12 +9,13 @@ parent: aansluiting
 ## Definitie
 administratief punt waar energie-uitwisseling wordt toegerekend aan een marktdeelnemer
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [aansluiting](/begrippen/aansluiting/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/energiewet](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/energiewet) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/allocatiepunt` |
 
-
-## Relaties
-* **Bovenliggend:** [aansluiting](aansluiting.html)

@@ -1,7 +1,7 @@
 ---
-layout: default
 title: energierichting
 parent: energie-uitwisseling
+permalink: /begrippen/energierichting/
 ---
 
 # energierichting
@@ -9,14 +9,25 @@ parent: energie-uitwisseling
 ## Definitie
 kant waarop energie beweegt
 
-## Eigenschappen
+## Voorbeelden
+* invoeding
+* afname
 
-| Eigenschap | Waarde |
+## Terminologie
+
+| Type | Term |
 | :--- | :--- |
-| Alternatieve termen | leveringsrichting |
-| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/energierichting` |
+| Voorkeursterm | energierichting |
+| Synoniem | leveringsrichting |
 
 
 ## Relaties
-* **Bovenliggend:** [energie-uitwisseling](energie-uitwisseling.html)
-* **Gerelateerd:** [afname](afname.html), [invoeding](invoeding.html)
+* **Bovenliggend:** [energie-uitwisseling](/begrippen/energie-uitwisseling/)
+* **Gerelateerd:** [afname](/begrippen/afname/), [invoeding](/begrippen/invoeding/)
+
+## Metadata
+
+| Eigenschap | Waarde |
+| :--- | :--- |
+| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/energierichting` |
+

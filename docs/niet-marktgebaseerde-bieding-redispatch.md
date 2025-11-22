@@ -1,7 +1,7 @@
 ---
-layout: default
 title: niet-marktgebaseerde bieding redispatch
 parent: bieding redispatch
+permalink: /begrippen/niet-marktgebaseerde-bieding-redispatch/
 ---
 
 # niet-marktgebaseerde bieding redispatch
@@ -9,13 +9,13 @@ parent: bieding redispatch
 ## Definitie
 bieding redispatch op verzoek van de netbeheerder, tegen niet-marktgebaseerde voorwaarden
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [bieding redispatch](/begrippen/bieding-redispatch/)
+* **Gerelateerd:** [netbeheerder](/begrippen/netbeheerder/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/niet-marktgebaseerde-bieding-redispatch` |
 
-
-## Relaties
-* **Bovenliggend:** [bieding redispatch](bieding-redispatch.html)
-* **Gerelateerd:** [netbeheerder](netbeheerder.html)

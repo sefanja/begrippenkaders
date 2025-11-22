@@ -1,7 +1,7 @@
 ---
-layout: default
 title: laagspanning
 parent: spanningsniveau
+permalink: /begrippen/laagspanning/
 ---
 
 # laagspanning
@@ -9,13 +9,20 @@ parent: spanningsniveau
 ## Definitie
 spanningsniveau van 1 kV of lager in geval van wisselspanning en 1,5 kV of lager in geval van gelijkspanning
 
-## Eigenschappen
+## Terminologie
 
-| Eigenschap | Waarde |
+| Type | Term |
 | :--- | :--- |
-| Alternatieve termen | LS |
-| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/laagspanning` |
+| Voorkeursterm | laagspanning |
+| Synoniem | LS |
 
 
 ## Relaties
-* **Bovenliggend:** [spanningsniveau](spanningsniveau.html)
+* **Bovenliggend:** [spanningsniveau](/begrippen/spanningsniveau/)
+
+## Metadata
+
+| Eigenschap | Waarde |
+| :--- | :--- |
+| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/laagspanning` |
+

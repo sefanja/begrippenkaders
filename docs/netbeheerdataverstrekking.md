@@ -1,7 +1,7 @@
 ---
-layout: default
 title: netbeheerdataverstrekking
 parent: energiemarkt (domein)
+permalink: /begrippen/netbeheerdataverstrekking/
 ---
 
 # netbeheerdataverstrekking
@@ -9,12 +9,13 @@ parent: energiemarkt (domein)
 ## Definitie
 handeling waarbij de netbeheerder gegevens toegankelijk maakt, buiten de reguliere bedrijfsactiviteiten om
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [energiemarkt (domein)](/begrippen/energiemarkt-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/netbeheerdataverstrekking` |
 
-
-## Relaties
-* **Bovenliggend:** [energiemarkt (domein)](energiemarkt-domein.html)

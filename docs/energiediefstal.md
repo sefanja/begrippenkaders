@@ -1,7 +1,7 @@
 ---
-layout: default
 title: energiediefstal
 parent: klant (domein)
+permalink: /begrippen/energiediefstal/
 ---
 
 # energiediefstal
@@ -9,12 +9,13 @@ parent: klant (domein)
 ## Definitie
 situatie waarbij op illegale wijze energie wordt onttrokken aan het energienet
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [klant (domein)](/begrippen/klant-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/energiediefstal` |
 
-
-## Relaties
-* **Bovenliggend:** [klant (domein)](klant-domein.html)

@@ -1,7 +1,7 @@
 ---
-layout: default
 title: inkoopleverancier
 parent: inkoopproduct (domein)
+permalink: /begrippen/inkoopleverancier/
 ---
 
 # inkoopleverancier
@@ -9,12 +9,13 @@ parent: inkoopproduct (domein)
 ## Definitie
 partij die tegen betaling goederen of diensten levert aan de netbeheerder
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [inkoopproduct (domein)](/begrippen/inkoopproduct-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/inkoopleverancier` |
 
-
-## Relaties
-* **Bovenliggend:** [inkoopproduct (domein)](inkoopproduct-domein.html)

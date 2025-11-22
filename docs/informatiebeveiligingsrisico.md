@@ -1,7 +1,7 @@
 ---
-layout: default
 title: informatiebeveiligingsrisico
 parent: richting (domein)
+permalink: /begrippen/informatiebeveiligingsrisico/
 ---
 
 # informatiebeveiligingsrisico
@@ -9,12 +9,13 @@ parent: richting (domein)
 ## Definitie
 effect van onzekerheid ten aanzien van het behoud van de vertrouwelijkheid, de integriteit en de beschikbaarheid van informatie
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [richting (domein)](/begrippen/richting-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/informatiebeveiligingsrisico` |
 
-
-## Relaties
-* **Bovenliggend:** [richting (domein)](richting-domein.html)

@@ -1,7 +1,7 @@
 ---
-layout: default
 title: netuitbreiding
 parent: netaanpassingsopdracht
+permalink: /begrippen/netuitbreiding/
 ---
 
 # netuitbreiding
@@ -9,13 +9,13 @@ parent: netaanpassingsopdracht
 ## Definitie
 toename in lengte, capaciteit of functionaliteit van een energienet
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [netaanpassingsopdracht](/begrippen/netaanpassingsopdracht/)
+* **Gerelateerd:** [energienet](/begrippen/energienet/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/netuitbreiding` |
 
-
-## Relaties
-* **Bovenliggend:** [netaanpassingsopdracht](netaanpassingsopdracht.html)
-* **Gerelateerd:** [energienet](energienet.html)

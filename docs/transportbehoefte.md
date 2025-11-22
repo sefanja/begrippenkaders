@@ -1,7 +1,7 @@
 ---
-layout: default
 title: transportbehoefte
 parent: energiemarkt (domein)
+permalink: /begrippen/transportbehoefte/
 ---
 
 # transportbehoefte
@@ -9,12 +9,13 @@ parent: energiemarkt (domein)
 ## Definitie
 gewenste energietransport op lange termijn
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [energiemarkt (domein)](/begrippen/energiemarkt-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/transportbehoefte` |
 
-
-## Relaties
-* **Bovenliggend:** [energiemarkt (domein)](energiemarkt-domein.html)

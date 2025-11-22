@@ -1,7 +1,7 @@
 ---
-layout: default
 title: maximumcapaciteit
 parent: installatie
+permalink: /begrippen/maximumcapaciteit/
 ---
 
 # maximumcapaciteit
@@ -9,13 +9,14 @@ parent: installatie
 ## Definitie
 hoogste hoeveelheid energie per tijdseenheid die een installatie continu met het energienet kan en mag uitwisselen
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [installatie](/begrippen/installatie/)
+* **Gerelateerd:** [energienet](/begrippen/energienet/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nc-rfg](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nc-rfg) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/maximumcapaciteit` |
 
-
-## Relaties
-* **Bovenliggend:** [installatie](installatie.html)
-* **Gerelateerd:** [energienet](energienet.html)

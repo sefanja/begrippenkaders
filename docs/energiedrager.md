@@ -1,7 +1,7 @@
 ---
-layout: default
 title: energiedrager
 parent: energie-uitwisseling
+permalink: /begrippen/energiedrager/
 ---
 
 # energiedrager
@@ -9,13 +9,28 @@ parent: energie-uitwisseling
 ## Definitie
 medium dat bruikbare energie bevat
 
-## Eigenschappen
+## Voorbeelden
+* elektriciteit
+* gas
+* waterstof
 
-| Eigenschap | Waarde |
+## Terminologie
+
+| Type | Term |
 | :--- | :--- |
-| Alternatieve termen | productsoort |
-| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/energiedrager` |
+| Voorkeursterm | energiedrager |
+| Synoniem | productsoort |
 
 
 ## Relaties
-* **Bovenliggend:** [energie-uitwisseling](energie-uitwisseling.html)
+* **Bovenliggend:** [energie-uitwisseling](/begrippen/energie-uitwisseling/)
+
+## Externe verwijzingen
+* **Exacte overeenkomst:** [https://www.cbs.nl/nl-nl/onze-diensten/methoden/begrippen/energiedrager](https://www.cbs.nl/nl-nl/onze-diensten/methoden/begrippen/energiedrager)
+
+## Metadata
+
+| Eigenschap | Waarde |
+| :--- | :--- |
+| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/energiedrager` |
+

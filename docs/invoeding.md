@@ -1,7 +1,7 @@
 ---
-layout: default
 title: invoeding
 parent: energie-uitwisseling
+permalink: /begrippen/invoeding/
 ---
 
 # invoeding
@@ -9,13 +9,20 @@ parent: energie-uitwisseling
 ## Definitie
 inbrenging van energie op het energienet
 
-## Eigenschappen
+## Terminologie
 
-| Eigenschap | Waarde |
+| Type | Term |
 | :--- | :--- |
-| Alternatieve termen | teruglevering |
-| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/invoeding` |
+| Voorkeursterm | invoeding |
+| Synoniem | teruglevering |
 
 
 ## Relaties
-* **Bovenliggend:** [energie-uitwisseling](energie-uitwisseling.html)
+* **Bovenliggend:** [energie-uitwisseling](/begrippen/energie-uitwisseling/)
+
+## Metadata
+
+| Eigenschap | Waarde |
+| :--- | :--- |
+| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/invoeding` |
+

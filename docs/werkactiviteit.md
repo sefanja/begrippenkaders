@@ -1,7 +1,7 @@
 ---
-layout: default
 title: werkactiviteit
 parent: werk (domein)
+permalink: /begrippen/werkactiviteit/
 ---
 
 # werkactiviteit
@@ -9,12 +9,13 @@ parent: werk (domein)
 ## Definitie
 ter plaatse aanbrengen van wenselijk geachte veranderingen aan energienetten
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [werk (domein)](/begrippen/werk-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/werkactiviteit` |
 
-
-## Relaties
-* **Bovenliggend:** [werk (domein)](werk-domein.html)

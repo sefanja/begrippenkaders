@@ -1,7 +1,7 @@
 ---
-layout: default
 title: innovatie
 parent: richting (domein)
+permalink: /begrippen/innovatie/
 ---
 
 # innovatie
@@ -9,12 +9,13 @@ parent: richting (domein)
 ## Definitie
 idee voor een nieuw goed, dienst of proces, of combinatie daarvan
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [richting (domein)](/begrippen/richting-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/innovatie` |
 
-
-## Relaties
-* **Bovenliggend:** [richting (domein)](richting-domein.html)

@@ -1,7 +1,7 @@
 ---
-layout: default
 title: inkoopleveranciersprestatie
 parent: inkoopproduct (domein)
+permalink: /begrippen/inkoopleveranciersprestatie/
 ---
 
 # inkoopleveranciersprestatie
@@ -9,12 +9,13 @@ parent: inkoopproduct (domein)
 ## Definitie
 mate waarin een inkoopleverancier gestelde doelen of verplichtingen volbrengt
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [inkoopproduct (domein)](/begrippen/inkoopproduct-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/inkoopleveranciersprestatie` |
 
-
-## Relaties
-* **Bovenliggend:** [inkoopproduct (domein)](inkoopproduct-domein.html)

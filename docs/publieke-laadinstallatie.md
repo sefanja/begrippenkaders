@@ -1,7 +1,7 @@
 ---
-layout: default
 title: publieke laadinstallatie
 parent: laadinstallatie
+permalink: /begrippen/publieke-laadinstallatie/
 ---
 
 # publieke laadinstallatie
@@ -9,12 +9,12 @@ parent: laadinstallatie
 ## Definitie
 algemeen toegankelijke laadinstallatie
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [laadinstallatie](/begrippen/laadinstallatie/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/publieke-laadinstallatie` |
 
-
-## Relaties
-* **Bovenliggend:** [laadinstallatie](laadinstallatie.html)

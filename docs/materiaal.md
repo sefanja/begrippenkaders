@@ -1,7 +1,7 @@
 ---
-layout: default
 title: materiaal
 parent: werk (domein)
+permalink: /begrippen/materiaal/
 ---
 
 # materiaal
@@ -9,12 +9,13 @@ parent: werk (domein)
 ## Definitie
 product bestemd om verwerkt te worden tot netcomponent
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [werk (domein)](/begrippen/werk-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/materiaal` |
 
-
-## Relaties
-* **Bovenliggend:** [werk (domein)](werk-domein.html)

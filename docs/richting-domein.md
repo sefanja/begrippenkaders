@@ -1,7 +1,7 @@
 ---
-layout: default
 title: richting (domein)
 parent: Energiesysteembeheer
+permalink: /begrippen/richting-domein/
 ---
 
 # richting (domein)
@@ -9,9 +9,10 @@ parent: Energiesysteembeheer
 ## Definitie
 bedrijfsobjecten die een netbeheerder bestuurt bij het opstellen en besturen van de bedrijfsrichting
 
-## Eigenschappen
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/richting-domein` |
 

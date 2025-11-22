@@ -1,7 +1,7 @@
 ---
-layout: default
 title: drukniveau
 parent: overdrachtspunt
+permalink: /begrippen/drukniveau/
 ---
 
 # drukniveau
@@ -9,12 +9,12 @@ parent: overdrachtspunt
 ## Definitie
 bereik van overdruk waarin een systeem opereert
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [overdrachtspunt](/begrippen/overdrachtspunt/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/drukniveau` |
 
-
-## Relaties
-* **Bovenliggend:** [overdrachtspunt](overdrachtspunt.html)

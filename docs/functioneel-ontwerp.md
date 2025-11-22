@@ -1,7 +1,7 @@
 ---
-layout: default
 title: functioneel ontwerp
 parent: energienet (domein)
+permalink: /begrippen/functioneel-ontwerp/
 ---
 
 # functioneel ontwerp
@@ -9,12 +9,13 @@ parent: energienet (domein)
 ## Definitie
 specificatie van eisen aan een netaanpassing en de gekozen oplossingsrichting
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [energienet (domein)](/begrippen/energienet-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/functioneel-ontwerp` |
 
-
-## Relaties
-* **Bovenliggend:** [energienet (domein)](energienet-domein.html)

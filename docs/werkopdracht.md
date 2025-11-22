@@ -1,7 +1,7 @@
 ---
-layout: default
 title: werkopdracht
 parent: werk (domein)
+permalink: /begrippen/werkopdracht/
 ---
 
 # werkopdracht
@@ -9,12 +9,13 @@ parent: werk (domein)
 ## Definitie
 autorisatie voor het uitvoeren van werk aan een energienet
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [werk (domein)](/begrippen/werk-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/werkopdracht` |
 
-
-## Relaties
-* **Bovenliggend:** [werk (domein)](werk-domein.html)

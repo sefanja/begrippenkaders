@@ -1,7 +1,7 @@
 ---
-layout: default
 title: bedrijfscontinuïteitsplan
 parent: richting (domein)
+permalink: /begrippen/bedrijfscontinuiteitsplan/
 ---
 
 # bedrijfscontinuïteitsplan
@@ -9,12 +9,13 @@ parent: richting (domein)
 ## Definitie
 document dat een organisatie gebruikt om haar activiteiten te herstellen na een ontwrichtend incident
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [richting (domein)](/begrippen/richting-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/bedrijfscontinuiteitsplan` |
 
-
-## Relaties
-* **Bovenliggend:** [richting (domein)](richting-domein.html)

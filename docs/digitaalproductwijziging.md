@@ -1,7 +1,7 @@
 ---
-layout: default
 title: digitaalproductwijziging
 parent: digitaal product (domein)
+permalink: /begrippen/digitaalproductwijziging/
 ---
 
 # digitaalproductwijziging
@@ -9,12 +9,13 @@ parent: digitaal product (domein)
 ## Definitie
 verandering van een digitaal product
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [digitaal product (domein)](/begrippen/digitaal-product-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/digitaalproductwijziging` |
 
-
-## Relaties
-* **Bovenliggend:** [digitaal product (domein)](digitaal-product-domein.html)

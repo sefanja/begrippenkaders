@@ -1,7 +1,7 @@
 ---
-layout: default
 title: aansluitcapaciteit
 parent: overdrachtspunt
+permalink: /begrippen/aansluitcapaciteit/
 ---
 
 # aansluitcapaciteit
@@ -9,13 +9,14 @@ parent: overdrachtspunt
 ## Definitie
 door aangeslotene gevraagde en door de netbeheerder ter beschikking gestelde hoeveelheid energie per tijdseenheid die via het overdrachtspunt van een aansluiting kan worden uitgewisseld
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [overdrachtspunt](/begrippen/overdrachtspunt/)
+* **Gerelateerd:** [overdrachtspunt](/begrippen/overdrachtspunt/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/begrippencode-elektriciteit](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/begrippencode-elektriciteit) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/gewenste-aansluitcapaciteit` |
 
-
-## Relaties
-* **Bovenliggend:** [overdrachtspunt](overdrachtspunt.html)
-* **Gerelateerd:** [overdrachtspunt](overdrachtspunt.html)

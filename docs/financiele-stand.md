@@ -1,7 +1,7 @@
 ---
-layout: default
 title: financiële stand
 parent: financiën (domein)
+permalink: /begrippen/financiele-stand/
 ---
 
 # financiële stand
@@ -9,12 +9,13 @@ parent: financiën (domein)
 ## Definitie
 geldelijke waardering van een toestand
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [financiën (domein)](/begrippen/financien-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/financiele-stand` |
 
-
-## Relaties
-* **Bovenliggend:** [financiën (domein)](financien-domein.html)

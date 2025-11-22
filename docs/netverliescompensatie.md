@@ -1,7 +1,7 @@
 ---
-layout: default
 title: netverliescompensatie
 parent: klant (domein)
+permalink: /begrippen/netverliescompensatie/
 ---
 
 # netverliescompensatie
@@ -9,12 +9,13 @@ parent: klant (domein)
 ## Definitie
 verkrijgen van energie om het technische dan wel administratieve verschil tussen de invoeding en afname te compenseren
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [klant (domein)](/begrippen/klant-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/netverliescompensatie` |
 
-
-## Relaties
-* **Bovenliggend:** [klant (domein)](klant-domein.html)

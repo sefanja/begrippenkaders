@@ -1,7 +1,7 @@
 ---
-layout: default
 title: distributie
 parent: energietransport
+permalink: /begrippen/distributie/
 ---
 
 # distributie
@@ -9,12 +9,13 @@ parent: energietransport
 ## Definitie
 energietransport op regionaal of lokaal niveau
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [energietransport](/begrippen/energietransport/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/energiewet](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/energiewet) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/distributie` |
 
-
-## Relaties
-* **Bovenliggend:** [energietransport](energietransport.html)

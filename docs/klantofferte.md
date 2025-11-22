@@ -1,7 +1,7 @@
 ---
-layout: default
 title: klantofferte
 parent: klant (domein)
+permalink: /begrippen/klantofferte/
 ---
 
 # klantofferte
@@ -9,12 +9,13 @@ parent: klant (domein)
 ## Definitie
 formeel aanbod tot het sluiten van een overeenkomst, opgesteld op verzoek van een (potentiële) klant
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [klant (domein)](/begrippen/klant-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/klantofferte` |
 
-
-## Relaties
-* **Bovenliggend:** [klant (domein)](klant-domein.html)

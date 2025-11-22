@@ -1,7 +1,7 @@
 ---
-layout: default
 title: proces
 parent: proces en data (domein)
+permalink: /begrippen/proces/
 ---
 
 # proces
@@ -9,12 +9,13 @@ parent: proces en data (domein)
 ## Definitie
 ordening van repetitief uit te voeren werk, gericht op een beoogd resultaat
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [proces en data (domein)](/begrippen/proces-en-data-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/proces` |
 
-
-## Relaties
-* **Bovenliggend:** [proces en data (domein)](proces-en-data-domein.html)

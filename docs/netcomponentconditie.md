@@ -1,7 +1,7 @@
 ---
-layout: default
 title: netcomponentconditie
 parent: energienet (domein)
+permalink: /begrippen/netcomponentconditie/
 ---
 
 # netcomponentconditie
@@ -9,12 +9,13 @@ parent: energienet (domein)
 ## Definitie
 (technische) toestand waarin een netcomponent verkeert
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [energienet (domein)](/begrippen/energienet-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/netcomponentconditie` |
 
-
-## Relaties
-* **Bovenliggend:** [energienet (domein)](energienet-domein.html)

@@ -1,7 +1,7 @@
 ---
-layout: default
 title: gesloten distributiesysteem
 parent: energienet
+permalink: /begrippen/gesloten-distributiesysteem/
 ---
 
 # gesloten distributiesysteem
@@ -9,14 +9,22 @@ parent: energienet
 ## Definitie
 energienet waarvoor ontheffing is verleend om het beheer toe te staan aan een andere partij dan de netbeheerder
 
-## Eigenschappen
+## Terminologie
 
-| Eigenschap | Waarde |
+| Type | Term |
 | :--- | :--- |
-| Alternatieve termen | GDS |
-| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/gesloten-distributiesysteem` |
+| Voorkeursterm | gesloten distributiesysteem |
+| Synoniem | GDS |
 
 
 ## Relaties
-* **Bovenliggend:** [energienet](energienet.html)
-* **Gerelateerd:** [netbeheerder](netbeheerder.html)
+* **Bovenliggend:** [energienet](/begrippen/energienet/)
+* **Gerelateerd:** [netbeheerder](/begrippen/netbeheerder/)
+
+## Metadata
+
+| Eigenschap | Waarde |
+| :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/elektriciteitswet-1998](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/elektriciteitswet-1998), [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/gaswet](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/gaswet) |
+| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/gesloten-distributiesysteem` |
+

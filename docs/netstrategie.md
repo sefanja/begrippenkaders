@@ -1,7 +1,7 @@
 ---
-layout: default
 title: netstrategie
 parent: energienet (domein)
+permalink: /begrippen/netstrategie/
 ---
 
 # netstrategie
@@ -9,12 +9,13 @@ parent: energienet (domein)
 ## Definitie
 algemene aanpak die een organisatie hanteert om de ontwikkeling en instandhouding van energienetten te besturen zodat zij haar doelstellingen realiseert
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [energienet (domein)](/begrippen/energienet-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/netstrategie` |
 
-
-## Relaties
-* **Bovenliggend:** [energienet (domein)](energienet-domein.html)

@@ -1,7 +1,7 @@
 ---
-layout: default
 title: energienet
 parent: netfunctie
+permalink: /begrippen/energienet/
 ---
 
 # energienet
@@ -9,13 +9,14 @@ parent: netfunctie
 ## Definitie
 stelsel van leidingen en daarmee verbonden hulpmiddelen ten behoeve van transport van energie
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [netfunctie](/begrippen/netfunctie/)
+* **Gerelateerd:** [aangeslotene](/begrippen/aangeslotene/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/elektriciteitswet-1998](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/elektriciteitswet-1998), [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/gaswet](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/gaswet), [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/energienet` |
 
-
-## Relaties
-* **Bovenliggend:** [netfunctie](netfunctie.html)
-* **Gerelateerd:** [aangeslotene](aangeslotene.html)

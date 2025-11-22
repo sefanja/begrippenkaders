@@ -1,7 +1,7 @@
 ---
-layout: default
 title: financieel advies
 parent: financiën (domein)
+permalink: /begrippen/financieel-advies/
 ---
 
 # financieel advies
@@ -9,12 +9,13 @@ parent: financiën (domein)
 ## Definitie
 raadgeving die primair verband houdt met de financiën
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [financiën (domein)](/begrippen/financien-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/financieel-advies` |
 
-
-## Relaties
-* **Bovenliggend:** [financiën (domein)](financien-domein.html)

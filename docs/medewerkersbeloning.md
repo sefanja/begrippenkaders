@@ -1,7 +1,7 @@
 ---
-layout: default
 title: medewerkersbeloning
 parent: medewerker (domein)
+permalink: /begrippen/medewerkersbeloning/
 ---
 
 # medewerkersbeloning
@@ -9,12 +9,13 @@ parent: medewerker (domein)
 ## Definitie
 (meestal financiële) vergoeding voor arbeid en de daaraan verbonden onkosten
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [medewerker (domein)](/begrippen/medewerker-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/medewerkersbeloning` |
 
-
-## Relaties
-* **Bovenliggend:** [medewerker (domein)](medewerker-domein.html)

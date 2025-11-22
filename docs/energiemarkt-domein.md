@@ -1,7 +1,7 @@
 ---
-layout: default
 title: energiemarkt (domein)
 parent: Energiesysteembeheer
+permalink: /begrippen/energiemarkt-domein/
 ---
 
 # energiemarkt (domein)
@@ -9,9 +9,10 @@ parent: Energiesysteembeheer
 ## Definitie
 bedrijfsobjecten die een netbeheerder bestuurt bij het faciliteren van de energiemarkt
 
-## Eigenschappen
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/energiemarkt-domein` |
 

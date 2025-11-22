@@ -1,7 +1,7 @@
 ---
-layout: default
 title: energietransport
 parent: energietransport (domein)
+permalink: /begrippen/energietransport/
 ---
 
 # energietransport
@@ -9,12 +9,13 @@ parent: energietransport (domein)
 ## Definitie
 verplaatsing van energie via een energienet
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [energietransport (domein)](/begrippen/energietransport-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/energietransport` |
 
-
-## Relaties
-* **Bovenliggend:** [energietransport (domein)](energietransport-domein.html)

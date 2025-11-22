@@ -1,7 +1,7 @@
 ---
-layout: default
 title: laadinstallatie
 parent: installatie
+permalink: /begrippen/laadinstallatie/
 ---
 
 # laadinstallatie
@@ -9,12 +9,12 @@ parent: installatie
 ## Definitie
 installatie voor het opladen en/of ontladen van mobiele apparaten
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [installatie](/begrippen/installatie/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/laadinstallatie` |
 
-
-## Relaties
-* **Bovenliggend:** [installatie](installatie.html)

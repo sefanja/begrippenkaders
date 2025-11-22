@@ -1,7 +1,7 @@
 ---
-layout: default
 title: betalingsopdracht
 parent: financiën (domein)
+permalink: /begrippen/betalingsopdracht/
 ---
 
 # betalingsopdracht
@@ -9,12 +9,13 @@ parent: financiën (domein)
 ## Definitie
 opdracht aan een financiële instelling om geld over te dragen
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [financiën (domein)](/begrippen/financien-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/betalingsopdracht` |
 
-
-## Relaties
-* **Bovenliggend:** [financiën (domein)](financien-domein.html)

@@ -1,7 +1,7 @@
 ---
-layout: default
 title: investeringsplan
 parent: energienet (domein)
+permalink: /begrippen/investeringsplan/
 ---
 
 # investeringsplan
@@ -9,12 +9,13 @@ parent: energienet (domein)
 ## Definitie
 door de netbeheerder periodiek opgesteld plan waarin alle noodzakelijke uitbreidings- en vervangingsinvesteringen worden beschreven en onderbouwd
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [energienet (domein)](/begrippen/energienet-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/investeringsplan` |
 
-
-## Relaties
-* **Bovenliggend:** [energienet (domein)](energienet-domein.html)

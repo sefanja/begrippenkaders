@@ -1,7 +1,7 @@
 ---
-layout: default
 title: medewerkersovereenkomst
 parent: medewerker (domein)
+permalink: /begrippen/medewerkersovereenkomst/
 ---
 
 # medewerkersovereenkomst
@@ -9,12 +9,13 @@ parent: medewerker (domein)
 ## Definitie
 afspraak waarbij een natuurlijk persoon, niet als onderneming, zich verbindt in opdracht van een organisatie werk te verrichten
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [medewerker (domein)](/begrippen/medewerker-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/medewerkersovereenkomst` |
 
-
-## Relaties
-* **Bovenliggend:** [medewerker (domein)](medewerker-domein.html)

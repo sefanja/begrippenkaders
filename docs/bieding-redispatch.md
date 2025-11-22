@@ -1,7 +1,7 @@
 ---
-layout: default
 title: bieding redispatch
 parent: opregel- of afregelaanbod
+permalink: /begrippen/bieding-redispatch/
 ---
 
 # bieding redispatch
@@ -12,13 +12,15 @@ aanbod om op een aansluiting op te regelen of af te regelen ten opzichte van een
 ## Toelichting
 Een prognose wordt op de dag voorafgaand aan het transport ingediend.
 
-## Eigenschappen
+
+## Relaties
+* **Bovenliggend:** [opregel- of afregelaanbod](/begrippen/opregel-of-afregelaanbod/)
+* **Gerelateerd:** [aansluiting](/begrippen/aansluiting/), [transportprognose](/begrippen/transportprognose/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/netcode-elektriciteit](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/netcode-elektriciteit) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/bieding-redispatch` |
 
-
-## Relaties
-* **Bovenliggend:** [opregel- of afregelaanbod](opregel-of-afregelaanbod.html)
-* **Gerelateerd:** [aansluiting](aansluiting.html), [transportprognose](transportprognose.html)

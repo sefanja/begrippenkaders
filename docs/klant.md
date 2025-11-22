@@ -1,7 +1,7 @@
 ---
-layout: default
 title: klant
 parent: klant (domein)
+permalink: /begrippen/klant/
 ---
 
 # klant
@@ -12,12 +12,14 @@ parent: klant (domein)
 ## Toelichting
 Iemand die impact ondervindt van bedrijfsactiviteiten van de netbeheerder, beschouwen we ook als klant. In dat geval neemt deze klant bijvoorbeeld informatiediensten af.
 
-## Eigenschappen
+
+## Relaties
+* **Bovenliggend:** [klant (domein)](/begrippen/klant-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/klant` |
 
-
-## Relaties
-* **Bovenliggend:** [klant (domein)](klant-domein.html)

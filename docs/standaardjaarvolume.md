@@ -1,7 +1,7 @@
 ---
-layout: default
 title: standaardjaarvolume
 parent: energie-uitwisseling
+permalink: /begrippen/standaardjaarvolume/
 ---
 
 # standaardjaarvolume
@@ -9,13 +9,13 @@ parent: energie-uitwisseling
 ## Definitie
 hoeveelheid energie-uitwisseling op basis van een genormaliseerd jaar
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [energie-uitwisseling](/begrippen/energie-uitwisseling/)
+* **Gerelateerd:** [energie-uitwisseling](/begrippen/energie-uitwisseling/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/standaardjaarvolume` |
 
-
-## Relaties
-* **Bovenliggend:** [energie-uitwisseling](energie-uitwisseling.html)
-* **Gerelateerd:** [energie-uitwisseling](energie-uitwisseling.html)

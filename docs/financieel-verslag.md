@@ -1,7 +1,7 @@
 ---
-layout: default
 title: financieel verslag
 parent: financiën (domein)
+permalink: /begrippen/financieel-verslag/
 ---
 
 # financieel verslag
@@ -9,12 +9,13 @@ parent: financiën (domein)
 ## Definitie
 overzicht van de financiële situatie van een organisatie
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [financiën (domein)](/begrippen/financien-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/financieel-verslag` |
 
-
-## Relaties
-* **Bovenliggend:** [financiën (domein)](financien-domein.html)

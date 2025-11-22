@@ -1,7 +1,7 @@
 ---
-layout: default
 title: netkwaliteit
 parent: energienet (domein)
+permalink: /begrippen/netkwaliteit/
 ---
 
 # netkwaliteit
@@ -9,12 +9,13 @@ parent: energienet (domein)
 ## Definitie
 mate waarin het energienet voldoet aan bepaalde normen
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [energienet (domein)](/begrippen/energienet-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/netkwaliteit` |
 
-
-## Relaties
-* **Bovenliggend:** [energienet (domein)](energienet-domein.html)

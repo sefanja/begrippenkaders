@@ -1,7 +1,7 @@
 ---
-layout: default
 title: medewerker (domein)
 parent: Energiesysteembeheer
+permalink: /begrippen/medewerker-domein/
 ---
 
 # medewerker (domein)
@@ -9,9 +9,10 @@ parent: Energiesysteembeheer
 ## Definitie
 bedrijfsobjecten die een netbeheerder bestuurt bij het werven en inzetbaar houden van medewerkers
 
-## Eigenschappen
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/medewerker-domein` |
 

@@ -1,7 +1,7 @@
 ---
-layout: default
 title: netvervanging
 parent: onderhouds- of inspectieopdracht
+permalink: /begrippen/netvervanging/
 ---
 
 # netvervanging
@@ -9,13 +9,13 @@ parent: onderhouds- of inspectieopdracht
 ## Definitie
 wisseling van één of meer netcomponenten als gevolg van economische veroudering of slijtage, zonder significante verandering in lengte, capaciteit of functionaliteit van het energienet
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [onderhouds- of inspectieopdracht](/begrippen/onderhouds-of-inspectieopdracht/)
+* **Gerelateerd:** [energienet](/begrippen/energienet/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/netvervanging` |
 
-
-## Relaties
-* **Bovenliggend:** [onderhouds- of inspectieopdracht](onderhouds-of-inspectieopdracht.html)
-* **Gerelateerd:** [energienet](energienet.html)

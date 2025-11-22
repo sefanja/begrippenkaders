@@ -1,7 +1,7 @@
 ---
-layout: default
 title: laadpunt
 parent: elektriciteitslaadeenheid
+permalink: /begrippen/laadpunt/
 ---
 
 # laadpunt
@@ -9,12 +9,12 @@ parent: elektriciteitslaadeenheid
 ## Definitie
 één of meer connectoren voor het laden of ontladen van één mobiel apparaat tegelijk
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [elektriciteitslaadeenheid](/begrippen/elektriciteitslaadeenheid/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/laadpunt` |
 
-
-## Relaties
-* **Bovenliggend:** [elektriciteitslaadeenheid](elektriciteitslaadeenheid.html)

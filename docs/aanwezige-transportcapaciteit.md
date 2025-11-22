@@ -1,7 +1,7 @@
 ---
-layout: default
 title: aanwezige transportcapaciteit
 parent: transportcapaciteit
+permalink: /begrippen/aanwezige-transportcapaciteit/
 ---
 
 # aanwezige transportcapaciteit
@@ -12,13 +12,15 @@ maximale capaciteit die een energienet aankan, met inachtneming van de van toepa
 ## Toelichting
 De transportcapaciteit beschikbaar door congestiemanagement of 'verzwaren tenzij' telt niet als aanwezige transportcapaciteit. Dit is in lijn met de Handleiding congestierapporten (ACM, 2023).
 
-## Eigenschappen
+
+## Relaties
+* **Bovenliggend:** [transportcapaciteit](/begrippen/transportcapaciteit/)
+* **Gerelateerd:** [energienet](/begrippen/energienet/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/begrippencode-elektriciteit](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/begrippencode-elektriciteit) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/aanwezige-transportcapaciteit` |
 
-
-## Relaties
-* **Bovenliggend:** [transportcapaciteit](transportcapaciteit.html)
-* **Gerelateerd:** [energienet](energienet.html)

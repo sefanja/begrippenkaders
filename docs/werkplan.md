@@ -1,7 +1,7 @@
 ---
-layout: default
 title: werkplan
 parent: werk (domein)
+permalink: /begrippen/werkplan/
 ---
 
 # werkplan
@@ -9,12 +9,13 @@ parent: werk (domein)
 ## Definitie
 omschrijving van alle werkzaamheden die uitgevoerd moeten worden
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [werk (domein)](/begrippen/werk-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/werkplan` |
 
-
-## Relaties
-* **Bovenliggend:** [werk (domein)](werk-domein.html)

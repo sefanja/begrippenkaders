@@ -1,7 +1,7 @@
 ---
-layout: default
 title: waardering
 parent: financiën (domein)
+permalink: /begrippen/waardering/
 ---
 
 # waardering
@@ -9,12 +9,13 @@ parent: financiën (domein)
 ## Definitie
 vaststelling van de geldelijke waarde van bezittingen
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [financiën (domein)](/begrippen/financien-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/waardering` |
 
-
-## Relaties
-* **Bovenliggend:** [financiën (domein)](financien-domein.html)

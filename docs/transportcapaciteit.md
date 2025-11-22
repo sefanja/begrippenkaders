@@ -1,7 +1,7 @@
 ---
-layout: default
 title: transportcapaciteit
 parent: netfunctie
+permalink: /begrippen/transportcapaciteit/
 ---
 
 # transportcapaciteit
@@ -9,13 +9,13 @@ parent: netfunctie
 ## Definitie
 vermogen om een energiedrager te verplaatsen
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [netfunctie](/begrippen/netfunctie/)
+* **Gerelateerd:** [energiedrager](/begrippen/energiedrager/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/transportcapaciteit` |
 
-
-## Relaties
-* **Bovenliggend:** [netfunctie](netfunctie.html)
-* **Gerelateerd:** [energiedrager](energiedrager.html)

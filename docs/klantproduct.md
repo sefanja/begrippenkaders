@@ -1,7 +1,7 @@
 ---
-layout: default
 title: klantproduct
 parent: klant (domein)
+permalink: /begrippen/klantproduct/
 ---
 
 # klantproduct
@@ -9,12 +9,13 @@ parent: klant (domein)
 ## Definitie
 al dan niet tastbaar iets dat de netbeheerder aanbiedt om aan een wens of behoefte te voldoen
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [klant (domein)](/begrippen/klant-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/klantproduct` |
 
-
-## Relaties
-* **Bovenliggend:** [klant (domein)](klant-domein.html)

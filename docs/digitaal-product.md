@@ -1,7 +1,7 @@
 ---
-layout: default
 title: digitaal product
 parent: digitaal product (domein)
+permalink: /begrippen/digitaal-product/
 ---
 
 # digitaal product
@@ -9,12 +9,13 @@ parent: digitaal product (domein)
 ## Definitie
 dienst voor het leveren van beheerde software
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [digitaal product (domein)](/begrippen/digitaal-product-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/digitaal-product` |
 
-
-## Relaties
-* **Bovenliggend:** [digitaal product (domein)](digitaal-product-domein.html)

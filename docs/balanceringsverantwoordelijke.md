@@ -1,7 +1,7 @@
 ---
-layout: default
 title: balanceringsverantwoordelijke
 parent: marktpartij
+permalink: /begrippen/balanceringsverantwoordelijke/
 ---
 
 # balanceringsverantwoordelijke
@@ -9,14 +9,21 @@ parent: marktpartij
 ## Definitie
 natuurlijk persoon of rechtspersoon die verantwoordelijk is voor de onbalans die hij, of degene die hij vertegenwoordigt, veroorzaakt in het energienet en die door de netbeheerder als balancerinsverantwoordelijke is toegelaten
 
-## Eigenschappen
+## Terminologie
 
-| Eigenschap | Waarde |
+| Type | Term |
 | :--- | :--- |
-| Alternatieve termen | BRP |
-| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/balanceringsverantwoordelijke` |
+| Voorkeursterm | balanceringsverantwoordelijke |
+| Synoniem | BRP |
 
 
 ## Relaties
-* **Bovenliggend:** [marktpartij](marktpartij.html)
-* **Gerelateerd:** [energienet](energienet.html), [netbeheerder](netbeheerder.html)
+* **Bovenliggend:** [marktpartij](/begrippen/marktpartij/)
+* **Gerelateerd:** [energienet](/begrippen/energienet/), [netbeheerder](/begrippen/netbeheerder/)
+
+## Metadata
+
+| Eigenschap | Waarde |
+| :--- | :--- |
+| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/balanceringsverantwoordelijke` |
+

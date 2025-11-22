@@ -1,7 +1,7 @@
 ---
-layout: default
 title: op afstand uitleesbare kleinverbruikmeetinrichting
 parent: kleinverbruikmeetinrichting
+permalink: /begrippen/op-afstand-uitleesbare-kleinverbruikmeetinrichting/
 ---
 
 # op afstand uitleesbare kleinverbruikmeetinrichting
@@ -12,13 +12,22 @@ meetinrichting die voldoet aan het Besluit op afstand uitleesbare meetinrichting
 ## Toelichting
 (Mogelijk enige) deel van een op afstand uitleesbare kleinverbruikmeetinrichting is de comptabele energiehoeveelheidsmeter met communicatiefunctionaliteit. Deze staat ook wel bekend als slimme meter.
 
-## Eigenschappen
 
-| Eigenschap | Waarde |
+## Terminologie
+
+| Type | Term |
 | :--- | :--- |
-| Alternatieve termen | slimme meter |
-| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/op-afstand-uitleesbare-kleinverbruikmeetinrichting` |
+| Voorkeursterm | op afstand uitleesbare kleinverbruikmeetinrichting |
+| Synoniem | slimme meter |
 
 
 ## Relaties
-* **Bovenliggend:** [kleinverbruikmeetinrichting](kleinverbruikmeetinrichting.html)
+* **Bovenliggend:** [kleinverbruikmeetinrichting](/begrippen/kleinverbruikmeetinrichting/)
+
+## Metadata
+
+| Eigenschap | Waarde |
+| :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/begrippencode-elektriciteit](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/begrippencode-elektriciteit) |
+| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/op-afstand-uitleesbare-kleinverbruikmeetinrichting` |
+

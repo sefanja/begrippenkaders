@@ -1,7 +1,7 @@
 ---
-layout: default
 title: netcomponent
 parent: energienet (domein)
+permalink: /begrippen/netcomponent/
 ---
 
 # netcomponent
@@ -9,12 +9,13 @@ parent: energienet (domein)
 ## Definitie
 fysiek onderdeel van het energienet
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [energienet (domein)](/begrippen/energienet-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/netcomponent` |
 
-
-## Relaties
-* **Bovenliggend:** [energienet (domein)](energienet-domein.html)

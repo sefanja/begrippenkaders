@@ -1,7 +1,7 @@
 ---
-layout: default
 title: medewerker
 parent: medewerker (domein)
+permalink: /begrippen/medewerker/
 ---
 
 # medewerker
@@ -9,12 +9,13 @@ parent: medewerker (domein)
 ## Definitie
 natuurlijk persoon die activiteiten uitvoert in opdracht van een organisatie
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [medewerker (domein)](/begrippen/medewerker-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/medewerker` |
 
-
-## Relaties
-* **Bovenliggend:** [medewerker (domein)](medewerker-domein.html)

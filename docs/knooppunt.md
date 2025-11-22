@@ -1,7 +1,7 @@
 ---
-layout: default
 title: knooppunt
 parent: netfunctie
+permalink: /begrippen/knooppunt/
 ---
 
 # knooppunt
@@ -9,12 +9,12 @@ parent: netfunctie
 ## Definitie
 locatie in een energienet waar energiestromen worden verdeeld, omgezet of geregeld
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [netfunctie](/begrippen/netfunctie/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/knooppunt` |
 
-
-## Relaties
-* **Bovenliggend:** [netfunctie](netfunctie.html)

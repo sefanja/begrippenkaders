@@ -1,7 +1,7 @@
 ---
-layout: default
 title: groepscapaciteitsbeperkingscontract
 parent: capaciteitsbeperkingscontract
+permalink: /begrippen/groepscapaciteitsbeperkingscontract/
 ---
 
 # groepscapaciteitsbeperkingscontract
@@ -9,14 +9,21 @@ parent: capaciteitsbeperkingscontract
 ## Definitie
 capaciteitsbeperkingscontract tussen een netbeheerder en een CSP voor een groep van aansluitingen
 
-## Eigenschappen
+## Terminologie
 
-| Eigenschap | Waarde |
+| Type | Term |
 | :--- | :--- |
-| Alternatieve termen | G-CBC |
-| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/groepscapaciteitsbeperkingscontract` |
+| Voorkeursterm | groepscapaciteitsbeperkingscontract |
+| Synoniem | G-CBC |
 
 
 ## Relaties
-* **Bovenliggend:** [capaciteitsbeperkingscontract](capaciteitsbeperkingscontract.html)
-* **Gerelateerd:** [aansluiting](aansluiting.html), [netbeheerder](netbeheerder.html), [CSP](csp.html)
+* **Bovenliggend:** [capaciteitsbeperkingscontract](/begrippen/capaciteitsbeperkingscontract/)
+* **Gerelateerd:** [aansluiting](/begrippen/aansluiting/), [netbeheerder](/begrippen/netbeheerder/), [CSP](/begrippen/csp/)
+
+## Metadata
+
+| Eigenschap | Waarde |
+| :--- | :--- |
+| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/groepscapaciteitsbeperkingscontract` |
+

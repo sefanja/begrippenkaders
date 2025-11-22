@@ -1,7 +1,7 @@
 ---
-layout: default
 title: gecontracteerde transportcapaciteit
 parent: transportcapaciteit
+permalink: /begrippen/gecontracteerde-transportcapaciteit/
 ---
 
 # gecontracteerde transportcapaciteit
@@ -9,13 +9,23 @@ parent: transportcapaciteit
 ## Definitie
 maximale capaciteit die op een aansluiting of groep van aansluitingen mag worden gebruikt
 
-## Eigenschappen
+## Terminologie
 
-| Eigenschap | Waarde |
+| Type | Term |
 | :--- | :--- |
-| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/gecontracteerde-transportcapaciteit` |
+| Voorkeursterm | gecontracteerde transportcapaciteit |
+| Zoekterm (verborgen) | gecontracteerd transportvermogen |
+| Zoekterm (verborgen) | GTV |
 
 
 ## Relaties
-* **Bovenliggend:** [transportcapaciteit](transportcapaciteit.html)
-* **Gerelateerd:** [aansluiting](aansluiting.html), [aangeslotene](aangeslotene.html)
+* **Bovenliggend:** [transportcapaciteit](/begrippen/transportcapaciteit/)
+* **Gerelateerd:** [aansluiting](/begrippen/aansluiting/), [aangeslotene](/begrippen/aangeslotene/)
+
+## Metadata
+
+| Eigenschap | Waarde |
+| :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/begrippencode-elektriciteit](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/begrippencode-elektriciteit) |
+| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/gecontracteerde-transportcapaciteit` |
+

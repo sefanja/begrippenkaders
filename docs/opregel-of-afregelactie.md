@@ -1,7 +1,7 @@
 ---
-layout: default
 title: opregel- of afregelactie
 parent: energietransport (domein)
+permalink: /begrippen/opregel-of-afregelactie/
 ---
 
 # opregel- of afregelactie
@@ -9,12 +9,13 @@ parent: energietransport (domein)
 ## Definitie
 maatregel die door de netbeheerder wordt geactiveerd door een wijziging van het productie- en/of belastingspatroon op een of meer aansluitingen
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [energietransport (domein)](/begrippen/energietransport-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/opregel-of-afregelactie` |
 
-
-## Relaties
-* **Bovenliggend:** [energietransport (domein)](energietransport-domein.html)

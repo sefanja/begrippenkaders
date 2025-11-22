@@ -1,7 +1,7 @@
 ---
-layout: default
 title: financiële beheersmaatregel
 parent: financiën (domein)
+permalink: /begrippen/financiele-beheersmaatregel/
 ---
 
 # financiële beheersmaatregel
@@ -9,12 +9,13 @@ parent: financiën (domein)
 ## Definitie
 handeling waarmee een organisatie het gebruik van haar financiële middelen bewaakt
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [financiën (domein)](/begrippen/financien-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/financiele-beheersmaatregel` |
 
-
-## Relaties
-* **Bovenliggend:** [financiën (domein)](financien-domein.html)

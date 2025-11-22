@@ -1,7 +1,7 @@
 ---
-layout: default
 title: netaanpassingsopdracht
 parent: energienet (domein)
+permalink: /begrippen/netaanpassingsopdracht/
 ---
 
 # netaanpassingsopdracht
@@ -9,12 +9,13 @@ parent: energienet (domein)
 ## Definitie
 autorisatie voor de functionele wijziging van een energienet
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [energienet (domein)](/begrippen/energienet-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/netaanpassingsopdracht` |
 
-
-## Relaties
-* **Bovenliggend:** [energienet (domein)](energienet-domein.html)

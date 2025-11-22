@@ -1,7 +1,7 @@
 ---
-layout: default
 title: afname
 parent: energie-uitwisseling
+permalink: /begrippen/afname/
 ---
 
 # afname
@@ -9,14 +9,21 @@ parent: energie-uitwisseling
 ## Definitie
 onttrekking van energie aan het energienet
 
-## Eigenschappen
+## Terminologie
 
-| Eigenschap | Waarde |
+| Type | Term |
 | :--- | :--- |
-| Alternatieve termen | levering |
-| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/afname` |
+| Voorkeursterm | afname |
+| Synoniem | levering |
 
 
 ## Relaties
-* **Bovenliggend:** [energie-uitwisseling](energie-uitwisseling.html)
-* **Gerelateerd:** [energienet](energienet.html)
+* **Bovenliggend:** [energie-uitwisseling](/begrippen/energie-uitwisseling/)
+* **Gerelateerd:** [energienet](/begrippen/energienet/)
+
+## Metadata
+
+| Eigenschap | Waarde |
+| :--- | :--- |
+| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/afname` |
+

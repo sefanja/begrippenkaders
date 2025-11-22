@@ -1,7 +1,7 @@
 ---
-layout: default
 title: volledig variabel transportrecht
 parent: alternatief transportrecht
+permalink: /begrippen/volledig-variabel-transportrecht/
 ---
 
 # volledig variabel transportrecht
@@ -9,13 +9,20 @@ parent: alternatief transportrecht
 ## Definitie
 transportrecht dat de netbeheerder kort voor gebruik vrijgeeft
 
-## Eigenschappen
+## Terminologie
 
-| Eigenschap | Waarde |
+| Type | Term |
 | :--- | :--- |
-| Alternatieve termen | reststroom |
-| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/volledig-variabel-transportrecht` |
+| Voorkeursterm | volledig variabel transportrecht |
+| Synoniem | reststroom |
 
 
 ## Relaties
-* **Bovenliggend:** [alternatief transportrecht](alternatief-transportrecht.html)
+* **Bovenliggend:** [alternatief transportrecht](/begrippen/alternatief-transportrecht/)
+
+## Metadata
+
+| Eigenschap | Waarde |
+| :--- | :--- |
+| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/volledig-variabel-transportrecht` |
+

@@ -1,7 +1,7 @@
 ---
-layout: default
 title: extrahoge druk
 parent: drukniveau
+permalink: /begrippen/extrahoge-druk/
 ---
 
 # extrahoge druk
@@ -9,13 +9,21 @@ parent: drukniveau
 ## Definitie
 drukniveau hoger dan 8 bar
 
-## Eigenschappen
+## Terminologie
 
-| Eigenschap | Waarde |
+| Type | Term |
 | :--- | :--- |
-| Alternatieve termen | EHD |
-| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/extrahoge-druk` |
+| Voorkeursterm | extrahoge druk |
+| Synoniem | EHD |
 
 
 ## Relaties
-* **Bovenliggend:** [drukniveau](drukniveau.html)
+* **Bovenliggend:** [drukniveau](/begrippen/drukniveau/)
+
+## Metadata
+
+| Eigenschap | Waarde |
+| :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/begrippencode-gas](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/begrippencode-gas) |
+| URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/extrahoge-druk` |
+

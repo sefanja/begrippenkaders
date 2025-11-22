@@ -1,7 +1,7 @@
 ---
-layout: default
 title: technische bedrijfsstandaard
 parent: energienet (domein)
+permalink: /begrippen/technische-bedrijfsstandaard/
 ---
 
 # technische bedrijfsstandaard
@@ -9,12 +9,13 @@ parent: energienet (domein)
 ## Definitie
 norm die aangeeft waaraan een bepaald product in technisch opzicht zou moeten voldoen
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [energienet (domein)](/begrippen/energienet-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/technische-bedrijfsstandaard` |
 
-
-## Relaties
-* **Bovenliggend:** [energienet (domein)](energienet-domein.html)

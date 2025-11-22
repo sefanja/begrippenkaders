@@ -1,7 +1,7 @@
 ---
-layout: default
 title: financiering
 parent: financiën (domein)
+permalink: /begrippen/financiering/
 ---
 
 # financiering
@@ -9,12 +9,13 @@ parent: financiën (domein)
 ## Definitie
 verstrekking van benodigde geldmiddelen
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [financiën (domein)](/begrippen/financien-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/financiering` |
 
-
-## Relaties
-* **Bovenliggend:** [financiën (domein)](financien-domein.html)

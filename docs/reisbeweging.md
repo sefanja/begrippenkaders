@@ -1,7 +1,7 @@
 ---
-layout: default
 title: reisbeweging
 parent: bedrijfsgebouw (domein)
+permalink: /begrippen/reisbeweging/
 ---
 
 # reisbeweging
@@ -9,12 +9,13 @@ parent: bedrijfsgebouw (domein)
 ## Definitie
 vrijwillige verplaatsing van een persoon van een bepaalde locatie naar een andere locatie
 
-## Eigenschappen
+## Relaties
+* **Bovenliggend:** [bedrijfsgebouw (domein)](/begrippen/bedrijfsgebouw-domein/)
+
+## Metadata
 
 | Eigenschap | Waarde |
 | :--- | :--- |
+| Bron | [https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility](https://sefanja.github.io/begrippenkaders/energiesysteembeheer/nbility) |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/reisbeweging` |
 
-
-## Relaties
-* **Bovenliggend:** [bedrijfsgebouw (domein)](bedrijfsgebouw-domein.html)
