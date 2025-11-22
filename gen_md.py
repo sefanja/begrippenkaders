@@ -67,7 +67,7 @@ def create_homepage():
     md = """---
 layout: default
 title: Home
-nav_order: 0
+nav_exclude: true
 permalink: /
 ---
 
