@@ -2,8 +2,6 @@
 layout: default
 title: financieel advies
 parent: financiën (domein)
-has_children: false
-nav_order: 2
 ---
 
 # financieel advies
@@ -12,9 +10,11 @@ nav_order: 2
 raadgeving die primair verband houdt met de financiën
 
 ## Eigenschappen
+
 | Eigenschap | Waarde |
 | :--- | :--- |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/financieel-advies` |
+
 
 ## Relaties
 * **Bovenliggend:** [financiën (domein)](financien-domein.html)

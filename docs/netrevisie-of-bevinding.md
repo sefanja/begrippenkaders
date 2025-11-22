@@ -2,8 +2,6 @@
 layout: default
 title: netrevisie of bevinding
 parent: werk (domein)
-has_children: false
-nav_order: 2
 ---
 
 # netrevisie of bevinding
@@ -12,9 +10,11 @@ nav_order: 2
 weergave van een ter plaatse aangebrachte of geconstateerde wijziging van het energienet
 
 ## Eigenschappen
+
 | Eigenschap | Waarde |
 | :--- | :--- |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/netrevisie_of_bevinding` |
+
 
 ## Relaties
 * **Bovenliggend:** [werk (domein)](werk-domein.html)

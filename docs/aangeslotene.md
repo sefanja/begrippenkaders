@@ -2,8 +2,6 @@
 layout: default
 title: aangeslotene
 parent: klant
-has_children: false
-nav_order: 2
 ---
 
 # aangeslotene
@@ -12,10 +10,12 @@ nav_order: 2
 ieder die van een netbeheerder de beschikking heeft gekregen over een aansluiting
 
 ## Eigenschappen
+
 | Eigenschap | Waarde |
 | :--- | :--- |
-| Synoniemen | afnemer |
+| Alternatieve termen | afnemer |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/aangeslotene` |
+
 
 ## Relaties
 * **Bovenliggend:** [klant](klant.html)

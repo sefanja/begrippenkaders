@@ -2,8 +2,6 @@
 layout: default
 title: gecontracteerde transportcapaciteit
 parent: transportcapaciteit
-has_children: false
-nav_order: 2
 ---
 
 # gecontracteerde transportcapaciteit
@@ -12,9 +10,11 @@ nav_order: 2
 maximale capaciteit die op een aansluiting of groep van aansluitingen mag worden gebruikt
 
 ## Eigenschappen
+
 | Eigenschap | Waarde |
 | :--- | :--- |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/gecontracteerde-transportcapaciteit` |
+
 
 ## Relaties
 * **Bovenliggend:** [transportcapaciteit](transportcapaciteit.html)

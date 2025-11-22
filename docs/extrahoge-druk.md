@@ -2,8 +2,6 @@
 layout: default
 title: extrahoge druk
 parent: drukniveau
-has_children: false
-nav_order: 2
 ---
 
 # extrahoge druk
@@ -12,10 +10,12 @@ nav_order: 2
 drukniveau hoger dan 8 bar
 
 ## Eigenschappen
+
 | Eigenschap | Waarde |
 | :--- | :--- |
-| Synoniemen | EHD |
+| Alternatieve termen | EHD |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/extrahoge-druk` |
+
 
 ## Relaties
 * **Bovenliggend:** [drukniveau](drukniveau.html)

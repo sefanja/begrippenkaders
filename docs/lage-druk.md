@@ -2,8 +2,6 @@
 layout: default
 title: lage druk
 parent: drukniveau
-has_children: false
-nav_order: 2
 ---
 
 # lage druk
@@ -12,10 +10,12 @@ nav_order: 2
 drukniveau van 200 mbar of lager
 
 ## Eigenschappen
+
 | Eigenschap | Waarde |
 | :--- | :--- |
-| Synoniemen | LD |
+| Alternatieve termen | LD |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/lage-druk` |
+
 
 ## Relaties
 * **Bovenliggend:** [drukniveau](drukniveau.html)

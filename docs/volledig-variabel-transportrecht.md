@@ -2,8 +2,6 @@
 layout: default
 title: volledig variabel transportrecht
 parent: alternatief transportrecht
-has_children: false
-nav_order: 2
 ---
 
 # volledig variabel transportrecht
@@ -12,10 +10,12 @@ nav_order: 2
 transportrecht dat de netbeheerder kort voor gebruik vrijgeeft
 
 ## Eigenschappen
+
 | Eigenschap | Waarde |
 | :--- | :--- |
-| Synoniemen | reststroom |
+| Alternatieve termen | reststroom |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/volledig-variabel-transportrecht` |
+
 
 ## Relaties
 * **Bovenliggend:** [alternatief transportrecht](alternatief-transportrecht.html)

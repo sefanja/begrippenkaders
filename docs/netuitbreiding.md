@@ -2,8 +2,6 @@
 layout: default
 title: netuitbreiding
 parent: netaanpassingsopdracht
-has_children: false
-nav_order: 2
 ---
 
 # netuitbreiding
@@ -12,9 +10,11 @@ nav_order: 2
 toename in lengte, capaciteit of functionaliteit van een energienet
 
 ## Eigenschappen
+
 | Eigenschap | Waarde |
 | :--- | :--- |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/netuitbreiding` |
+
 
 ## Relaties
 * **Bovenliggend:** [netaanpassingsopdracht](netaanpassingsopdracht.html)

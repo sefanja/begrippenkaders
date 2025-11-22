@@ -2,8 +2,6 @@
 layout: default
 title: voedingsgebied
 parent: netfunctie
-has_children: false
-nav_order: 2
 ---
 
 # voedingsgebied
@@ -12,9 +10,11 @@ nav_order: 2
 deel van het aardoppervlak waar zich de overdrachtspunten van aansluitingen bevinden die worden gevoed door een bepaald deel van het energienet
 
 ## Eigenschappen
+
 | Eigenschap | Waarde |
 | :--- | :--- |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/voedingsgebied` |
+
 
 ## Relaties
 * **Bovenliggend:** [netfunctie](netfunctie.html)

@@ -2,8 +2,6 @@
 layout: default
 title: klant (domein)
 parent: Energiesysteembeheer
-has_children: true
-nav_order: 2
 ---
 
 # klant (domein)
@@ -12,6 +10,8 @@ nav_order: 2
 bedrijfsobjecten die een netbeheerder bestuurt bij het bedienen van klanten
 
 ## Eigenschappen
+
 | Eigenschap | Waarde |
 | :--- | :--- |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/klant-domein` |
+

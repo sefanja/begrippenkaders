@@ -2,8 +2,6 @@
 layout: default
 title: gevraagde transportcapaciteit
 parent: transportcapaciteit
-has_children: false
-nav_order: 2
 ---
 
 # gevraagde transportcapaciteit
@@ -15,9 +13,11 @@ transportcapaciteit nodig om transportverzoeken uit te voeren
 Het betreft de transportcapaciteit die tijdens spitsmomenten nodig is op het beperkende netelement.
 
 ## Eigenschappen
+
 | Eigenschap | Waarde |
 | :--- | :--- |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/gevraagde-transportcapaciteit` |
+
 
 ## Relaties
 * **Bovenliggend:** [transportcapaciteit](transportcapaciteit.html)

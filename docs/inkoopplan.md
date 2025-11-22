@@ -2,8 +2,6 @@
 layout: default
 title: inkoopplan
 parent: inkoopproduct (domein)
-has_children: false
-nav_order: 2
 ---
 
 # inkoopplan
@@ -12,9 +10,11 @@ nav_order: 2
 door een organisatie in detail voorgenomen handelswijze om goederen en diensten te verkrijgen zodat zij haar doelstellingen realiseert
 
 ## Eigenschappen
+
 | Eigenschap | Waarde |
 | :--- | :--- |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/inkoopplan` |
+
 
 ## Relaties
 * **Bovenliggend:** [inkoopproduct (domein)](inkoopproduct-domein.html)

@@ -2,8 +2,6 @@
 layout: default
 title: energierichting
 parent: energie-uitwisseling
-has_children: false
-nav_order: 2
 ---
 
 # energierichting
@@ -12,10 +10,12 @@ nav_order: 2
 kant waarop energie beweegt
 
 ## Eigenschappen
+
 | Eigenschap | Waarde |
 | :--- | :--- |
-| Synoniemen | leveringsrichting |
+| Alternatieve termen | leveringsrichting |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/energierichting` |
+
 
 ## Relaties
 * **Bovenliggend:** [energie-uitwisseling](energie-uitwisseling.html)

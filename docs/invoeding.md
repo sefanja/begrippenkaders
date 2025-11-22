@@ -2,8 +2,6 @@
 layout: default
 title: invoeding
 parent: energie-uitwisseling
-has_children: false
-nav_order: 2
 ---
 
 # invoeding
@@ -12,10 +10,12 @@ nav_order: 2
 inbrenging van energie op het energienet
 
 ## Eigenschappen
+
 | Eigenschap | Waarde |
 | :--- | :--- |
-| Synoniemen | teruglevering |
+| Alternatieve termen | teruglevering |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/invoeding` |
+
 
 ## Relaties
 * **Bovenliggend:** [energie-uitwisseling](energie-uitwisseling.html)

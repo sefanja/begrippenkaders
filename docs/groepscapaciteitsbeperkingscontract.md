@@ -2,8 +2,6 @@
 layout: default
 title: groepscapaciteitsbeperkingscontract
 parent: capaciteitsbeperkingscontract
-has_children: false
-nav_order: 2
 ---
 
 # groepscapaciteitsbeperkingscontract
@@ -12,10 +10,12 @@ nav_order: 2
 capaciteitsbeperkingscontract tussen een netbeheerder en een CSP voor een groep van aansluitingen
 
 ## Eigenschappen
+
 | Eigenschap | Waarde |
 | :--- | :--- |
-| Synoniemen | G-CBC |
+| Alternatieve termen | G-CBC |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/groepscapaciteitsbeperkingscontract` |
+
 
 ## Relaties
 * **Bovenliggend:** [capaciteitsbeperkingscontract](capaciteitsbeperkingscontract.html)

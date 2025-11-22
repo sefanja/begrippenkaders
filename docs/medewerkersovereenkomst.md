@@ -2,8 +2,6 @@
 layout: default
 title: medewerkersovereenkomst
 parent: medewerker (domein)
-has_children: false
-nav_order: 2
 ---
 
 # medewerkersovereenkomst
@@ -12,9 +10,11 @@ nav_order: 2
 afspraak waarbij een natuurlijk persoon, niet als onderneming, zich verbindt in opdracht van een organisatie werk te verrichten
 
 ## Eigenschappen
+
 | Eigenschap | Waarde |
 | :--- | :--- |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/medewerkersovereenkomst` |
+
 
 ## Relaties
 * **Bovenliggend:** [medewerker (domein)](medewerker-domein.html)

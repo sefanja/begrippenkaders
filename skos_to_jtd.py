@@ -48,14 +48,6 @@ def main():
             if str(parent) in concept_map:
                 info['broader'].append(concept_map[str(parent)]['label'])
         
-        # Check of IK een parent ben voor anderen (has_children)
-        # Dit is nodig voor JtD om een pijltje naast de naam te zetten
-        is_parent = False
-        if list(g.subjects(SKOS.broader, subject)) or list(g.objects(subject, SKOS.narrower)):
-            info['has_children'] = True
-        else:
-            info['has_children'] = False
-
     # 4. Bestanden genereren
     for uri, info in concept_map.items():
         subject = next(s for s in g.subjects() if str(s) == uri)
@@ -72,8 +64,6 @@ def create_index_page(title, g, scheme):
     content = f"""---
 layout: default
 title: {title}
-nav_order: 1
-has_children: true
 ---
 
 # {title}
@@ -103,8 +93,6 @@ def generate_jtd_markdown(g, s, info, concept_map, root_name):
 layout: default
 title: {label}
 {parent_field}
-has_children: {str(info['has_children']).lower()}
-nav_order: 2
 ---
 
 # {label}
@@ -120,11 +108,11 @@ nav_order: 2
         md += f"\n## Toelichting\n{scope_note}\n"
 
     # Tabelletje
-    md += "\n## Eigenschappen\n"
+    md += "\n## Eigenschappen\n\n"
     md += "| Eigenschap | Waarde |\n| :--- | :--- |\n"
     if alt_labels:
-        md += f"| Synoniemen | {', '.join(alt_labels)} |\n"
-    md += f"| URI | `{str(s)}` |\n"
+        md += f"| Alternatieve termen | {', '.join(alt_labels)} |\n"
+    md += f"| URI | `{str(s)}` |\n\n"
 
     # Relaties expliciet tonen (omdat menu soms beperkt is)
     broader = get_links(g, s, SKOS.broader, concept_map)

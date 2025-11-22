@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Energiesysteembeheer
-nav_order: 1
-has_children: true
 ---
 
 # Energiesysteembeheer

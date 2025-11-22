@@ -2,8 +2,6 @@
 layout: default
 title: power park module
 parent: elektriciteitsproductie-eenheid
-has_children: false
-nav_order: 2
 ---
 
 # power park module
@@ -12,9 +10,11 @@ nav_order: 2
 eenheid of verzameling van eenheden die elektriciteit opwekt, die ofwel niet-synchroon ofwel via vermogenselektronica via één overdrachtspunt met het energienet is verbonden
 
 ## Eigenschappen
+
 | Eigenschap | Waarde |
 | :--- | :--- |
 | URI | `https://sefanja.github.io/begrippenkaders/energiesysteembeheer/power-park-module` |
+
 
 ## Relaties
 * **Bovenliggend:** [elektriciteitsproductie-eenheid](elektriciteitsproductie-eenheid.html)
