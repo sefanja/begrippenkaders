@@ -5,45 +5,47 @@ on:
     branches: ["main"]
   workflow_dispatch:
 
-# Rechten die nodig zijn om te mogen publiceren
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# Eén deployment tegelijk
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
 jobs:
-  # Job 1: Bouw de content (Python + Jekyll voorbereiding)
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # 1. Python Stuk (Data preparatie)
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-          cache: 'pip' # Cache pip voor snelheid
+          cache: 'pip'
 
-      - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
 
       - name: Run Conversion Script
-        run: |
-          python gen_md.py
+        run: python gen_mdd.py
 
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
+      # 2. Ruby Stuk (Site bouwen)
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          source: ./docs
-          destination: ./_site
+          ruby-version: '3.1'
+          bundler-cache: true # Dit zorgt dat hij je Gemfile leest en cached!
 
+      - name: Build Site with Jekyll
+        run: |
+          bundle exec jekyll build --source docs --destination _site
+
+      # 3. Upload Stuk
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
@@ -52,7 +54,6 @@ jobs:
         with:
           path: ./_site
 
-  # Job 2: Zet het live
   deploy:
     environment:
       name: github-pages
