@@ -164,7 +164,7 @@
   skos:broader :meter;
   dct:source :begrippencode-elektriciteit .
 
-:gewenste-aansluitcapaciteit a skos:Concept;
+:aansluitcapaciteit a skos:Concept;
   skos:definition "door aangeslotene gevraagde en door de netbeheerder ter beschikking gestelde hoeveelheid energie per tijdseenheid die via het overdrachtspunt van een aansluiting kan worden uitgewisseld"@nl;
   skos:inScheme :energiesysteembeheer;
   skos:prefLabel "aansluitcapaciteit"@nl;

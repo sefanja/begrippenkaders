@@ -1,8 +1,7 @@
 ---
-title: Energiesysteembeheer
-permalink: /
+title: Begrippenkaders
 ---
 
-# Energiesysteembeheer
+# Begrippenkaders
 
-
+Hieronder vindt u de verschillende begrippenkaders die onderdeel zijn van het stelsel.
