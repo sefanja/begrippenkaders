@@ -48,6 +48,9 @@ def main():
     
     print(f"Gevonden kaders: {', '.join([x['label'] for x in schemes.values()])}")
 
+    # 4. Maak de Hoofd Index pagina (De 'Bibliotheek' ingang)
+    create_main_index(schemes)
+
     # 5. Maak per Scheme een submap en index pagina
     for s_uri, s_info in schemes.items():
         scheme_dir = os.path.join(OUTPUT_DIR, s_info['slug'])
@@ -100,6 +103,28 @@ def main():
         generate_markdown(g, subject, info, concept_map, root_name)
 
     print("Klaar! Website gegenereerd.")
+
+def create_main_index(schemes):
+    """Maakt docs/index.md: De landingspagina met overzicht van alle kaders"""
+    md = """---
+layout: default
+title: Begrippenkaders
+nav_order: 1
+permalink: /
+---
+
+# Begrippenkaders Netbeheer Nederland
+
+Hieronder vindt u de verschillende begrippenkaders die onderdeel zijn van het stelsel.
+
+| Kader | Omschrijving |
+| :--- | :--- |
+"""
+    for s in schemes.values():
+        md += f"| [{s['label']}]({s['slug']}/) | {s['description']} |\n"
+        
+    with open(os.path.join(OUTPUT_DIR, "index.md"), "w", encoding="utf-8") as f:
+        f.write(md)
 
 def create_scheme_index(folder, s_info):
     """Maakt docs/{kader}/index.md: De voorpagina van één specifiek kader"""
