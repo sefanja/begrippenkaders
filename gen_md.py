@@ -28,10 +28,7 @@ def main():
         print(f" - Laden: {file_path}")
         g.parse(file_path, format="turtle")
 
-    # 2. Output schoonmaken
-    if os.path.exists(OUTPUT_DIR):
-        shutil.rmtree(OUTPUT_DIR)
-    os.makedirs(OUTPUT_DIR)
+    # 2. Output schoonmaken (verwijderd)
 
     # 3. Indexeer ConceptSchemes (Dit worden de 'Hoofdstukken')
     # We koppelen URI -> Mapnaam (slug)

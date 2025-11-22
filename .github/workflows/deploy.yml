@@ -43,11 +43,7 @@ jobs:
 
       - name: Build Site with Jekyll
         run: |
-          bundle exec jekyll build --source docs --destination _site
-
-      # 3. Upload Stuk
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
+          bundle exec jekyll build -s docs -d _site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
