@@ -7,7 +7,6 @@ from slugify import slugify
 # --- CONFIG ---
 INPUT_DIR = "begrippenkaders"
 OUTPUT_DIR = "docs"
-PERMALINK_BASE = "/begrippenkaders"
 
 # Namespaces
 PROV = Namespace("http://www.w3.org/ns/prov#")
@@ -41,7 +40,7 @@ def main():
             "uri": str(s),
             "label": str(pref_label),
             "slug": slug,
-            "permalink": f"{PERMALINK_BASE}/{slug}/",
+            "permalink": f"/{slug}/",
             "broader": []
         }
 
@@ -184,8 +183,9 @@ def get_internal_links(g, subject, predicate, concept_map):
         uri = str(obj)
         if uri in concept_map:
             lbl = concept_map[uri]['label']
-            # Link naar permalink
-            links.append(f"[{lbl}]({concept_map[uri]['permalink']})")
+            # We gebruiken dubbele accolades {{ }} in de f-string om enkele { } te krijgen in de output
+            # Output in Markdown wordt: [Fiets]({{ '/fiets/' | relative_url }})
+            links.append(f"[{lbl}]({{{{ concept_map[uri]['permalink'] | relative_url }}}})")
     return links
 
 from rdflib import URIRef, Literal
