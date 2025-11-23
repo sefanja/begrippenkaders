@@ -47,16 +47,14 @@ document.addEventListener("DOMContentLoaded", async function() {
         `;
 
         usages.forEach(item => {
-            // Check of er een specifieke URL is, anders fallback
-            const linkUrl = item.element_uri || '#';
-            
             html += `
                 <tr>
                     <td style="text-align:left">
-                        ${item.model_name}<br>
+                        ${item.model_url ? '<a href="' + item.model_url + '">' + item.model_name + '</a>' : item.model_name}
                     </td>
                     <td style="text-align:left">
-                        <a href="${linkUrl}">${item.element_name}</a> (${item.element_type})
+                        ${item.element_url ? '<a href="' + item.element_url + '">' + item.element_name + '</a>' : item.element_name}
+                        (${item.element_type})
                     </td>
                 </tr>
             `;
