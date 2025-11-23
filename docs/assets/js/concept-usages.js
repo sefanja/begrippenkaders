@@ -34,14 +34,13 @@ document.addEventListener("DOMContentLoaded", async function() {
         // --- Render HTML ---
         // We gebruiken de styling classes van Just the Docs
         let html = `
-            <h2 id="gebruik-in-modellen">Gebruik</h2>
-            <p>Dit begrip wordt toegepast in de volgende informatiemodellen:</p>
-            <div class="table-wrapper">
+            <h2 class="text-delta">Gebruik</h2>
+            <div class="table-wrapper hide-header">
                 <table>
                     <thead>
                         <tr>
                             <th>Model</th>
-                            <th>Entiteit</th>
+                            <th>Element</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -49,21 +48,16 @@ document.addEventListener("DOMContentLoaded", async function() {
 
         usages.forEach(item => {
             // Check of er een specifieke URL is, anders fallback
-            const linkUrl = item.url || '#';
+            const linkUrl = item.element_uri || '#';
             
             html += `
                 <tr>
                     <td>
-                        ${item.model}<br>
+                        ${item.model_name}<br>
                     </td>
                     <td>
-                        ${item.element} 
-                        <span class="text-grey-lt-100 fs-2">(${item._type})</span>
-                    </td>
-                    <td>
-                        <a href="${linkUrl}" target="_blank" class="btn btn-outline btn-sm fs-2">
-                            Bekijk &rarr;
-                        </a>
+                        <a href="${linkUrl}">${item.element_name}</a>
+                        <span class="text-grey-lt-100 fs-2">(${item.element_type})</span>
                     </td>
                 </tr>
             `;
