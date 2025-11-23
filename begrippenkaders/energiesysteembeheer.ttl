@@ -1,4 +1,4 @@
-@prefix : <https://sefanja.github.io/begrippenkaders/energiesysteembeheer/> .
+@prefix : <https://sefanja.github.io/energiesysteembeheer/> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -7,7 +7,7 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 
-<https://sefanja.github.io/begrippenkaders/energiesysteembeheer/> a owl:Ontology;
+<https://sefanja.github.io/energiesysteembeheer/> a owl:Ontology;
   owl:imports <http://xmlns.com/foaf/0.1/> .
 
 :energiesysteembeheer a skos:ConceptScheme;
@@ -379,7 +379,7 @@
 :in-concept a skos:Collection;
   rdfs:comment "Concepten in deze collectie zijn nog niet gevalideerd."@nl;
   skos:prefLabel "in concept"@nl;
-  skos:member <https://sefanja.github.io/begrippenkaders/energiesysteembeheer/>,
+  skos:member <https://sefanja.github.io/energiesysteembeheer/>,
     :bieding-redispatch, :voedingsgebied, :publieke-laadinstallatie, :private-laadinstallatie,
     :snellaadinstallatie, :laadpunt, :spanningsniveau, :aansluittermijn, :extrahoogspanning,
     :hoogspanning, :laagspanning, :middenspanning, :tussenspanning, :lage-druk, :drukniveau,
