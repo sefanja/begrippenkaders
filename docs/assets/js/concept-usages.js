@@ -56,8 +56,7 @@ document.addEventListener("DOMContentLoaded", async function() {
                         ${item.model_name}<br>
                     </td>
                     <td style="text-align:left">
-                        <a href="${linkUrl}">${item.element_name}</a>
-                        <span class="text-grey-lt-300 fs-2">(${item.element_type})</span>
+                        <a href="${linkUrl}">${item.element_name}</a> (${item.element_type})
                     </td>
                 </tr>
             `;
@@ -67,9 +66,6 @@ document.addEventListener("DOMContentLoaded", async function() {
                     </tbody>
                 </table>
             </div>
-            <p class="fs-2 text-grey-lt-100 mt-2">
-                Deze informatie wordt automatisch opgehaald uit de actuele modeldefinities.
-            </p>
         `;
 
         // Injecteer de HTML
