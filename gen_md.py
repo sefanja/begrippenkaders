@@ -117,8 +117,8 @@ permalink: {info['permalink']}
         md += "\n## Opmerkingen\n"
         md += "\n| Soort | Waarde |\n| :--- | :--- |\n"
         if comments: md += f"| Uitleg | {NEWLINE.join(comments)} |\n"
-        if scope_notes: md += f"| Uitleg | {NEWLINE.join(scope_notes)} |\n"
-        if examples: md += f"| Uitleg | {NEWLINE.join(examples)} |\n"
+        if scope_notes: md += f"| Toelichting | {NEWLINE.join(scope_notes)} |\n"
+        if examples: md += f"| Voorbeeld | {NEWLINE.join(examples)} |\n"
         md += "{: .hide-header}\n\n"
 
     # Terminologie
@@ -128,8 +128,8 @@ permalink: {info['permalink']}
         md += "\n## Terminologie\n"
         md += "\n| Type | Term |\n| :--- | :--- |\n"
         md += f"| Voorkeursterm | {label} |\n"
-        if alt_labels: md += f"| Alternatieve term | {'<br>'.join(alt_labels)} |\n"
-        if hidden_labels: md += f"| Zoekterm | {'<br>'.join(hidden_labels)} |\n"
+        if alt_labels: md += f"| Alternatieve term | {NEWLINE.join(alt_labels)} |\n"
+        if hidden_labels: md += f"| Zoekterm | {NEWLINE.join(hidden_labels)} |\n"
         md += "{: .hide-header}\n\n"
 
     # Relaties
@@ -166,9 +166,9 @@ permalink: {info['permalink']}
     history_notes = [str(l) for l in g.objects(s, SKOS.historyNote)]
     if sources or change_notes or history_notes:
         md += "\n## Verantwoording\n\n| Eigenschap | Waarde |\n| :--- | :--- |\n"
-        if sources: md += f"| Bron | {'<br>'.join(sources)} |\n"
-        if change_notes: md += f"| Wijzigingsnotitie | {'<br>'.join(change_notes)} |\n"
-        if history_notes: md += f"| Historie | {', '.join(history_notes)} |\n"
+        if sources: md += f"| Bron | {NEWLINE.join(sources)} |\n"
+        if change_notes: md += f"| Wijzigingsnotitie | {NEWLINE.join(change_notes)} |\n"
+        if history_notes: md += f"| Historie | {NEWLINE.join(history_notes)} |\n"
         md += "{: .hide-header}\n\n"
 
     # Opslaan in de root van docs/
