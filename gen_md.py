@@ -7,6 +7,7 @@ from slugify import slugify
 # --- CONFIG ---
 INPUT_DIR = "begrippenkaders"
 OUTPUT_DIR = "docs"
+NEWLINE = '{::nomarkdown}<hr style="visibility:hidden;height:0;margin:1em 0 0 0"/>{:/}' # voor gebruik in tabellen
 
 # Namespaces
 PROV = Namespace("http://www.w3.org/ns/prov#")
@@ -114,15 +115,11 @@ permalink: {info['permalink']}
     examples = [str(l) for l in g.objects(s, SKOS.example)]
     if scope_notes or comments or examples:
         md += "\n## Opmerkingen\n"
-        if comments:
-            md += "\n### Uitleg\n"
-            for c in comments: md += f"\n{c}\n"
-        if scope_notes:
-            md += "\n### Toelichting\n"
-            for note in scope_notes: md += f"\n{note}\n"
-        if examples:
-            md += "\n### Voorbeelden\n"
-            for ex in examples: md += f"\n{ex}\n"        
+        md += "\n| Soort | Waarde |\n| :--- | :--- |\n"
+        if comments: md += f"| Uitleg | {NEWLINE.join(comments)} |\n"
+        if scope_notes: md += f"| Uitleg | {NEWLINE.join(scope_notes)} |\n"
+        if examples: md += f"| Uitleg | {NEWLINE.join(examples)} |\n"
+        md += "{: .hide-header}\n\n"
 
     # Terminologie
     alt_labels = [str(l) for l in g.objects(s, SKOS.altLabel)]
@@ -141,9 +138,11 @@ permalink: {info['permalink']}
     related = get_internal_links(g, s, SKOS.related, concept_map)
     if broader or narrower or related:
         md += "\n## Relaties\n\n"
-        if broader: md += f"* Bovenliggend: {', '.join(broader)}\n"
-        if narrower: md += f"* Onderliggend: {', '.join(narrower)}\n"
-        if related:  md += f"* Gerelateerd: {', '.join(related)}\n"
+        md += "\n| Soort | Begrip |\n| :--- | :--- |\n"
+        if broader: md += f"| Bovenliggend | {NEWLINE.join(broader)} |\n"
+        if broader: md += f"| Onderliggend | {NEWLINE.join(narrower)} |\n"
+        if related: md += f"| Gerelateerd | {NEWLINE.join(related)} |\n"
+        md += "{: .hide-header}\n\n"
 
     # Overeenkomstige begrippen
     broad_match = get_external_links(g, s, SKOS.broadMatch)
@@ -153,11 +152,13 @@ permalink: {info['permalink']}
     related_match = get_external_links(g, s, SKOS.relatedMatch)
     if broad_match or narrow_match or close_match or exact_match or related_match:
         md += "\n## Overeenkomstige begrippen\n"
-        if broad_match: md += f"* Overeenkomstig bovenliggend: {', '.join(broad_match)}\n"
-        if narrow_match: md += f"* Overeenkomstig onderliggend: {', '.join(narrow_match)}\n"
-        if close_match: md += f"* Vrijwel overeenkomstig: {', '.join(close_match)}\n"
-        if exact_match: md += f"* Exact overeenkomstig: {', '.join(exact_match)}\n"
-        if related_match: md += f"* Overeenkomstig verwant: {', '.join(related_match)}\n"
+        md += "\n| Overeenkomst | Begrip |\n| :--- | :--- |\n"
+        if broad_match: md += f"| Overeenkomstig bovenliggend | {NEWLINE.join(broad_match)} |\n"
+        if narrow_match: md += f"| Overeenkomstig onderliggend | {NEWLINE.join(narrow_match)} |\n"
+        if close_match: md += f"| Vrijwel overeenkomstig | {NEWLINE.join(close_match)} |\n"
+        if exact_match: md += f"| Exact overeenkomstig | {NEWLINE.join(exact_match)} |\n"
+        if related_match: md += f"| Overeenkomstig verwant | {NEWLINE.join(related_match)} |\n"
+        md += "{: .hide-header}\n\n"
 
     # Verantwoording
     sources = get_external_links(g, s, DCTERMS.source)
