@@ -140,7 +140,7 @@ permalink: {info['permalink']}
         md += "\n## Relaties\n{: .text-delta }\n\n"
         md += "\n| Soort | Begrip |\n| :--- | :--- |\n"
         if broader: md += f"| Bovenliggend | {NEWLINE.join(broader)} |\n"
-        if broader: md += f"| Onderliggend | {NEWLINE.join(narrower)} |\n"
+        if narrower: md += f"| Onderliggend | {NEWLINE.join(narrower)} |\n"
         if related: md += f"| Gerelateerd | {NEWLINE.join(related)} |\n"
         md += "{: .hide-header}\n\n"
 
