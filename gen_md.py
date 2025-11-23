@@ -172,6 +172,9 @@ permalink: {info['permalink']}
         if history_notes: md += f"| Historie | {NEWLINE.join(history_notes)} |\n"
         md += "{: .hide-header}\n\n"
 
+    # Gebruik (placeholder voor gebruik door client-side JavaScript)
+    md += '<div id="concept-usages" class="mt-6"></div>'
+
     # Opslaan in de root van docs/
     filename = f"{info['slug']}.md"
     with open(os.path.join(OUTPUT_DIR, filename), "w", encoding="utf-8") as f:

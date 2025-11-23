@@ -35,12 +35,12 @@ document.addEventListener("DOMContentLoaded", async function() {
         // We gebruiken de styling classes van Just the Docs
         let html = `
             <h2 class="text-delta">Gebruik</h2>
-            <div class="table-wrapper hide-header">
-                <table>
+            <div class="table-wrapper">
+                <table class="hide-header">
                     <thead>
                         <tr>
-                            <th>Model</th>
-                            <th>Element</th>
+                            <th style="text-align:left">Model</th>
+                            <th style="text-align:left">Element</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -52,12 +52,12 @@ document.addEventListener("DOMContentLoaded", async function() {
             
             html += `
                 <tr>
-                    <td>
+                    <td style="text-align:left">
                         ${item.model_name}<br>
                     </td>
-                    <td>
+                    <td style="text-align:left">
                         <a href="${linkUrl}">${item.element_name}</a>
-                        <span class="text-grey-lt-100 fs-2">(${item.element_type})</span>
+                        <span class="text-grey-lt-300 fs-2">(${item.element_type})</span>
                     </td>
                 </tr>
             `;
