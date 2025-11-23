@@ -7,6 +7,7 @@ from slugify import slugify
 # --- CONFIG ---
 INPUT_DIR = "begrippenkaders"
 OUTPUT_DIR = "docs"
+PERMALINK_BASE = "/begrippen"
 
 # Namespaces
 PROV = Namespace("http://www.w3.org/ns/prov#")
@@ -40,7 +41,7 @@ def main():
             "uri": str(s),
             "label": str(pref_label),
             "slug": slug,
-            "permalink": f"/{slug}/",
+            "permalink": f"{PERMALINK_BASE}/{slug}/",
             "broader": []
         }
 
