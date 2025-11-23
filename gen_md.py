@@ -107,14 +107,14 @@ permalink: {info['permalink']}
     notation = g.value(s, SKOS.notation)
     if notation: md += f"\n{notation}\n{{: .fs-4 .text-grey-dk-000 .fw-300 .float-right}}\n"
     definition = g.value(s, SKOS.definition)
-    if definition: md += f"\n## Definitie\n\n{definition}\n"
+    if definition: md += f"\n## Definitie\n{{: .text-delta}}\n\n{definition}\n"
 
     # Opmerkingen
     scope_notes = [str(l) for l in g.objects(s, SKOS.scopeNote)]
     comments = [str(l) for l in g.objects(s, RDFS.comment)]
     examples = [str(l) for l in g.objects(s, SKOS.example)]
     if scope_notes or comments or examples:
-        md += "\n## Opmerkingen\n"
+        md += "\n## Opmerkingen\n{{: .text-delta}}\n"
         md += "\n| Soort | Waarde |\n| :--- | :--- |\n"
         if comments: md += f"| Uitleg | {NEWLINE.join(comments)} |\n"
         if scope_notes: md += f"| Toelichting | {NEWLINE.join(scope_notes)} |\n"
@@ -125,7 +125,7 @@ permalink: {info['permalink']}
     alt_labels = [str(l) for l in g.objects(s, SKOS.altLabel)]
     hidden_labels = [str(l) for l in g.objects(s, SKOS.hiddenLabel)]
     if alt_labels or hidden_labels or notation:
-        md += "\n## Terminologie\n"
+        md += "\n## Terminologie\n{{: .text-delta}}\n"
         md += "\n| Type | Term |\n| :--- | :--- |\n"
         md += f"| Voorkeursterm | {label} |\n"
         if alt_labels: md += f"| Alternatieve term | {NEWLINE.join(alt_labels)} |\n"
@@ -137,21 +137,21 @@ permalink: {info['permalink']}
     narrower = get_internal_links(g, s, SKOS.narrower, concept_map)
     related = get_internal_links(g, s, SKOS.related, concept_map)
     if broader or narrower or related:
-        md += "\n## Relaties\n\n"
+        md += "\n## Relaties\n{{: .text-delta}}\n\n"
         md += "\n| Soort | Begrip |\n| :--- | :--- |\n"
         if broader: md += f"| Bovenliggend | {NEWLINE.join(broader)} |\n"
         if broader: md += f"| Onderliggend | {NEWLINE.join(narrower)} |\n"
         if related: md += f"| Gerelateerd | {NEWLINE.join(related)} |\n"
         md += "{: .hide-header}\n\n"
 
-    # Overeenkomstige begrippen
+    # Overeenkomstig
     broad_match = get_external_links(g, s, SKOS.broadMatch)
     narrow_match = get_external_links(g, s, SKOS.narrowMatch)
     close_match = get_external_links(g, s, SKOS.closeMatch)
     exact_match = get_external_links(g, s, SKOS.exactMatch)
     related_match = get_external_links(g, s, SKOS.relatedMatch)
     if broad_match or narrow_match or close_match or exact_match or related_match:
-        md += "\n## Overeenkomstige begrippen\n"
+        md += "\n## Overeenkomstig\n{{: .text-delta}}\n"
         md += "\n| Overeenkomst | Begrip |\n| :--- | :--- |\n"
         if broad_match: md += f"| Overeenkomstig bovenliggend | {NEWLINE.join(broad_match)} |\n"
         if narrow_match: md += f"| Overeenkomstig onderliggend | {NEWLINE.join(narrow_match)} |\n"
@@ -165,7 +165,7 @@ permalink: {info['permalink']}
     change_notes = [str(l) for l in g.objects(s, SKOS.changeNote)]
     history_notes = [str(l) for l in g.objects(s, SKOS.historyNote)]
     if sources or change_notes or history_notes:
-        md += "\n## Verantwoording\n\n| Eigenschap | Waarde |\n| :--- | :--- |\n"
+        md += "\n## Verantwoording\n{{: .text-delta}}\n\n| Eigenschap | Waarde |\n| :--- | :--- |\n"
         if sources: md += f"| Bron | {NEWLINE.join(sources)} |\n"
         if change_notes: md += f"| Wijzigingsnotitie | {NEWLINE.join(change_notes)} |\n"
         if history_notes: md += f"| Historie | {NEWLINE.join(history_notes)} |\n"
