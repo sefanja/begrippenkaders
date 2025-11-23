@@ -173,23 +173,23 @@
   dct:source :begrippencode-elektriciteit .
 
 :begrippencode-elektriciteit a foaf:Document;
-  rdfs:label "Begrippencode elektriciteit"@nl;
+  dct:title "Begrippencode elektriciteit"@nl;
   foaf:page <https://wetten.overheid.nl/jci1.3:c:BWBR0037938> .
 
 :netcode-elektriciteit a foaf:Document;
-  rdfs:label "Netcode elektriciteit"@nl;
+  dct:title "Netcode elektriciteit"@nl;
   foaf:page <https://wetten.overheid.nl/jci1.3:c:BWBR0037940> .
 
 :elektriciteitswet-1998 a foaf:Document;
-  rdfs:label "Elektriciteitswet 1998"@nl;
+  dct:title "Elektriciteitswet 1998"@nl;
   foaf:page <https://wetten.overheid.nl/jci1.3:c:BWBR0009755> .
 
 :gaswet a foaf:Document;
-  rdfs:label "Gaswet"@nl;
+  dct:title "Gaswet"@nl;
   foaf:page <https://wetten.overheid.nl/jci1.3:c:BWBR0011440> .
 
 :begrippencode-gas a foaf:Document;
-  rdfs:label "Begrippencode gas"@nl;
+  dct:title "Begrippencode gas"@nl;
   foaf:page <https://wetten.overheid.nl/jci1.3:c:BWBR0037923> .
 
 :aanwezige-transportcapaciteit a skos:Concept;
@@ -276,7 +276,7 @@
   dct:source :nc-rfg .
 
 :nc-rfg a foaf:Document;
-  rdfs:label "Verordening (EU) 2016/631 (NC RfG)"@nl;
+  dct:title "Verordening (EU) 2016/631 (NC RfG)"@nl;
   foaf:page <http://data.europa.eu/eli/reg/2016/631/oj> .
 
 :laadinstallatie a skos:Concept;
@@ -540,7 +540,7 @@
   dct:source :energiewet .
 
 :energiewet a foaf:Document;
-  skos:prefLabel "Energiewet"@nl;
+  dct:title "Energiewet"@nl;
   foaf:page <https://wetten.overheid.nl/jci1.3:c:BWBR0050714> .
 
 :transportrecht a skos:Concept;
@@ -1777,5 +1777,5 @@
   dct:source :nbility .
 
 :nbility a foaf:Document;
-  skos:prefLabel "NBility"@nl;
+  dct:title "NBility"@nl ;
   foaf:page <https://nbility-model.github.io> .
