@@ -133,7 +133,7 @@ permalink: {info['permalink']}
         md += f"| Voorkeursterm | {label} |\n"
         if alt_labels: md += f"| Alternatieve term | {'<br>'.join(alt_labels)} |\n"
         if hidden_labels: md += f"| Zoekterm | {'<br>'.join(hidden_labels)} |\n"
-        md += "\n"
+        md += "{: .hide-header}\n\n"
 
     # Relaties
     broader = get_internal_links(g, s, SKOS.broader, concept_map)
@@ -168,7 +168,7 @@ permalink: {info['permalink']}
         if sources: md += f"| Bron | {'<br>'.join(sources)} |\n"
         if change_notes: md += f"| Wijzigingsnotitie | {'<br>'.join(change_notes)} |\n"
         if history_notes: md += f"| Historie | {', '.join(history_notes)} |\n"
-        md += "\n"
+        md += "{: .hide-header}\n\n"
 
     # Opslaan in de root van docs/
     filename = f"{info['slug']}.md"
