@@ -185,7 +185,7 @@ def get_internal_links(g, subject, predicate, concept_map):
             lbl = concept_map[uri]['label']
             # We gebruiken dubbele accolades {{ }} in de f-string om enkele { } te krijgen in de output
             # Output in Markdown wordt: [Fiets]({{ '/fiets/' | relative_url }})
-            links.append(f"[{lbl}]({{{{ concept_map[uri]['permalink'] | relative_url }}}})")
+            links.append(f"[{lbl}]({{{{ '{concept_map[uri]['permalink']}' | relative_url }}}})")
     return links
 
 from rdflib import URIRef, Literal
